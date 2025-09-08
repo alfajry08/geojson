@@ -1,0 +1,3869 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.132542,
+          -7.684377
+        ]
+      },
+      "properties": {
+        "pltu": "Adipala",
+        "pemasok": "CV Bogemanjir ; Stockfield 1",
+        "alamat": "Jalan Tanpa Nama, Bogemanjir, Bunton, Adipala, Cilacap, Jawa Tengah",
+        "desa": "Bunton",
+        "kecamatan": "Adipala",
+        "kabupatenkota": "Cilacap",
+        "provinsi": "Jawa Tengah",
+        "production_rate_tpy": 1.492,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.133063,
+          -7.68448
+        ]
+      },
+      "properties": {
+        "pltu": "Adipala",
+        "pemasok": "CV Bogemanjir ; Stockfield 2",
+        "alamat": "Bogemanjir, Bunton, Adipala, Cilacap, Jawa Tengah",
+        "desa": "Bunton",
+        "kecamatan": "Adipala",
+        "kabupatenkota": "Cilacap",
+        "provinsi": "Jawa Tengah",
+        "production_rate_tpy": 1.492,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.132615,
+          -7.684398
+        ]
+      },
+      "properties": {
+        "pltu": "Adipala",
+        "pemasok": "CV Bogemanjir ; Stockfield 3",
+        "alamat": "Bogemanjir, Bunton, Adipala, Cilacap, Jawa Tengah",
+        "desa": "Bunton",
+        "kecamatan": "Adipala",
+        "kabupatenkota": "Cilacap",
+        "provinsi": "Jawa Tengah",
+        "production_rate_tpy": 1.492,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.948278,
+          -6.661615
+        ]
+      },
+      "properties": {
+        "pltu": "Adipala",
+        "pemasok": "PT Arya Adinata ; Perhutani (RPH Sampora)",
+        "alamat": "Desa Buniayu. Kecamatan Tambak. Kabupaten Banyumas. Jawa Tengah",
+        "desa": "Buniayu",
+        "kecamatan": "Tambak",
+        "kabupatenkota": "Banyumas",
+        "provinsi": "Jawa Tengah",
+        "production_rate_tpy": NaN,
+        "category_shh": "SH",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.051858,
+          -6.734959
+        ]
+      },
+      "properties": {
+        "pltu": "Adipala",
+        "pemasok": "PT Arya Adinata Perhutani (RPH Conggeang)",
+        "alamat": "Jl. Raya Ciporos. Pasanggrahan. Kec. Karangpucung. Kab. Cilacap. Jawa Tengah 53255",
+        "desa": "Pasanggrahan",
+        "kecamatan": "Karangpucung",
+        "kabupatenkota": "Cilacap",
+        "provinsi": "Jawa Tengah",
+        "production_rate_tpy": NaN,
+        "category_shh": "SH",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.129726,
+          -6.738076
+        ]
+      },
+      "properties": {
+        "pltu": "Adipala",
+        "pemasok": "PT Arya Adinata (LMDH)",
+        "alamat": "Desa Pringtutul RT 003/RW 001. Kecamatan Rowokele. Kabupaten Kebumen. Jawa Tengah",
+        "desa": "Pringtutul",
+        "kecamatan": "Rowokele",
+        "kabupatenkota": "Kab. Kebumen",
+        "provinsi": "Jawa Tengah",
+        "production_rate_tpy": NaN,
+        "category_shh": "SH",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.437779,
+          -7.609837
+        ]
+      },
+      "properties": {
+        "pltu": "Adipala",
+        "pemasok": "PT Arya Adinata (UD Arta Mulya)",
+        "alamat": "Jalan Sulfat Ruko II/88. Desa/Kelurahan Bunulrejo. Kec. Blimbing. Kota Malang. Provinsi Jawa Timur. Kode Pos: 65123",
+        "desa": "Pasar Banggi",
+        "kecamatan": "Rembang",
+        "kabupatenkota": "Rembang",
+        "provinsi": "Jawa Tengah",
+        "production_rate_tpy": 550.0,
+        "category_shh": "SH",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.43779,
+          -7.609837
+        ]
+      },
+      "properties": {
+        "pltu": "Adipala",
+        "pemasok": "PT Arya Adinata ; FasProd 1",
+        "alamat": "Banyumas",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 6000.0,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.876651,
+          -7.386989
+        ]
+      },
+      "properties": {
+        "pltu": "Adipala",
+        "pemasok": "PT Aswattha Inti Sejahtera; Sumber",
+        "alamat": "Jl. Raya Ciporos, Pasanggrahan, Kec Karang Pucung, Kab Cilacap, Jawa Tengah ",
+        "desa": "Pasanggrahan",
+        "kecamatan": "Karang Pucung",
+        "kabupatenkota": "Cilacap",
+        "provinsi": "Jawa Tengah",
+        "production_rate_tpy": 24000.0,
+        "category_shh": "SH",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.876651,
+          -7.386989
+        ]
+      },
+      "properties": {
+        "pltu": NaN,
+        "pemasok": "PT Aswattha Inti Sejahtera; FasProd",
+        "alamat": "Jl. Raya Ciporos, Pasanggrahan, Kec Karang Pucung, Kab Cilacap, Jawa Tengah",
+        "desa": "Pasanggrahan",
+        "kecamatan": "Karang Pucung",
+        "kabupatenkota": "Cilacap",
+        "provinsi": "Jawa Tengah",
+        "production_rate_tpy": 18000.0,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.43145,
+          -7.651667
+        ]
+      },
+      "properties": {
+        "pltu": "Adipala",
+        "pemasok": "PT Berkah Rahayu Indonesia",
+        "alamat": "Desa Pringtutul RT 003/RW 001. Kecamatan Rowokele. Kabupaten Kebumen. Jawa Tengah",
+        "desa": "Pringtutul",
+        "kecamatan": "Rowokele",
+        "kabupatenkota": "Kab. Kebumen",
+        "provinsi": "Jawa Tengah",
+        "production_rate_tpy": NaN,
+        "category_shh": NaN,
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.142874,
+          -7.680651
+        ]
+      },
+      "properties": {
+        "pltu": "Adipala",
+        "pemasok": "PT Bumirejo Tirta Kencana",
+        "alamat": "Jalan Menur RT 01/RW 03 Bunton. Kecamatan Adipala. Kabupaten Cilacap",
+        "desa": "Menur",
+        "kecamatan": "Adipala",
+        "kabupatenkota": "Cilacap",
+        "provinsi": "Jawa Tengah",
+        "production_rate_tpy": 6000.0,
+        "category_shh": "SH",
+        "keterangan": "Ngadino (Perorangan)",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.129081,
+          -7.661409
+        ]
+      },
+      "properties": {
+        "pltu": "Adipala",
+        "pemasok": "PT Bumirejo Tirta Kencana",
+        "alamat": "Desa Bandingan RT 005/RW 001. Kecamatan Rakit. Kabupaten Banjarnegara",
+        "desa": "Bandingan",
+        "kecamatan": "Rakit",
+        "kabupatenkota": "Banjarnegara",
+        "provinsi": "Jawa Tengah",
+        "production_rate_tpy": 20400.0,
+        "category_shh": "SH",
+        "keterangan": "Misnah (Perorangan)",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.159639,
+          -7.683566
+        ]
+      },
+      "properties": {
+        "pltu": "Adipala",
+        "pemasok": "PT Bumirejo Tirta Kencana",
+        "alamat": "Jalan Tanjung RT 002/RW 011. Kel Sidakaya. Cilacap Selatan. Kab Cilacap",
+        "desa": "Sidakaya",
+        "kecamatan": "Cilacap Selatan",
+        "kabupatenkota": "Kab Cilacap",
+        "provinsi": "Jawa Tengah",
+        "production_rate_tpy": 12000.0,
+        "category_shh": "SH",
+        "keterangan": "Kuswanto (Perorangan)",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.8396795,
+          -7.536758
+        ]
+      },
+      "properties": {
+        "pltu": "Adipala",
+        "pemasok": "PT Bumirejo Tirta Kencana",
+        "alamat": "Desa Sidaurip. RT 001/RW 003. Kecamatan Gandrungmangu. Kab Cilacap",
+        "desa": "Sidaurip",
+        "kecamatan": "Gandrungmangu",
+        "kabupatenkota": "Kab Cilacap",
+        "provinsi": "Jawa Tengah",
+        "production_rate_tpy": 36000.0,
+        "category_shh": "SH",
+        "keterangan": "Tanto Budi Santoso (Perorangan)",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.143946,
+          -7.6456
+        ]
+      },
+      "properties": {
+        "pltu": "Adipala",
+        "pemasok": "PT Bumirejo Tirta Kencana",
+        "alamat": "Jalan Penatusan RT 03/RW 02 Bunton. Kecamatan Adipala. Kab Cilacap",
+        "desa": "Bunton",
+        "kecamatan": "Adipala",
+        "kabupatenkota": "Kab Cilacap",
+        "provinsi": "Jawa Tengah",
+        "production_rate_tpy": 6000.0,
+        "category_shh": "SH",
+        "keterangan": "Sudarno (Perorangan)",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.14187,
+          -7.675269
+        ]
+      },
+      "properties": {
+        "pltu": "Adipala",
+        "pemasok": "PT Bumirejo Tirta Kencana",
+        "alamat": "Jalan Teratai RT 003/RW 010 Bunton. Kecamatan Adipala. Kab Cilacap. ",
+        "desa": "Bunton",
+        "kecamatan": "Adipala",
+        "kabupatenkota": "Kab Cilacap",
+        "provinsi": "Jawa Tengah",
+        "production_rate_tpy": 12000.0,
+        "category_shh": "SH",
+        "keterangan": "Rasmiraja Rasiwan (Perorangan)",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.1126,
+          -7.7113
+        ]
+      },
+      "properties": {
+        "pltu": "Adipala",
+        "pemasok": "PT Jagaddhita Santosha Bersama",
+        "alamat": "Jl. Kalikumpul Tambakrejo RT.003 RW.001, Desa Tambakrejo, Kecamatan Adipala, Kabupaten Cilacap, Jawa Tengah 53271",
+        "desa": "Tambakrejo",
+        "kecamatan": "Adipala",
+        "kabupatenkota": "Cilacap",
+        "provinsi": "Jawa Tengah",
+        "production_rate_tpy": 24000.0,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.969335,
+          -7.447135
+        ]
+      },
+      "properties": {
+        "pltu": "Adipala",
+        "pemasok": "PT Sinar Energi Utama",
+        "alamat": "Lumbir, Banyumas, Jawa Tengah",
+        "desa": "Lumbir",
+        "kecamatan": "Lumbir",
+        "kabupatenkota": "Banyumas",
+        "provinsi": "Jawa Tengah",
+        "production_rate_tpy": 24000.0,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.431417,
+          -7.651667
+        ]
+      },
+      "properties": {
+        "pltu": "Adipala",
+        "pemasok": "PT Berkah Rahayu Indonesia",
+        "alamat": "Desa Pringtutul RT 003/RW 001, Rowokele, Kebumen, Jawa Tengah",
+        "desa": "Pringtutul",
+        "kecamatan": "Rowokele",
+        "kabupatenkota": "Kebumen",
+        "provinsi": "Jawa Tengah",
+        "production_rate_tpy": 72000.0,
+        "category_shh": "SH",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.660775,
+          -4.014572
+        ]
+      },
+      "properties": {
+        "pltu": "Barru",
+        "pemasok": "CV MJ (Lompoe)",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": NaN,
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.653427,
+          -4.025332
+        ]
+      },
+      "properties": {
+        "pltu": "Barru",
+        "pemasok": "CV MJ (Jl Bukit Madani)",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": NaN,
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.635625,
+          -3.985322
+        ]
+      },
+      "properties": {
+        "pltu": "Barru",
+        "pemasok": "CV MJ (Soreang)",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": NaN,
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.625369,
+          -3.963751
+        ]
+      },
+      "properties": {
+        "pltu": "Barru",
+        "pemasok": "CV MJ (Suppa)",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": NaN,
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.656617,
+          -4.040922
+        ]
+      },
+      "properties": {
+        "pltu": "Barru",
+        "pemasok": "PT Lentera ; Sumber 1",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": NaN,
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.654362,
+          -4.024466
+        ]
+      },
+      "properties": {
+        "pltu": "Barru",
+        "pemasok": "PT Lentera ; Sumber 2",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": NaN,
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.820506,
+          -4.038182
+        ]
+      },
+      "properties": {
+        "pltu": "Barru",
+        "pemasok": "PT LJA",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": NaN,
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.642421,
+          5.2119
+        ]
+      },
+      "properties": {
+        "pltu": "Barru",
+        "pemasok": "PT SKM",
+        "alamat": NaN,
+        "desa": "Belapunraga",
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": NaN,
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.642512,
+          5.211987
+        ]
+      },
+      "properties": {
+        "pltu": "Barru",
+        "pemasok": "PT SKM",
+        "alamat": NaN,
+        "desa": "Belapunraga",
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": NaN,
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.52216,
+          -3.84189
+        ]
+      },
+      "properties": {
+        "pltu": "Barru",
+        "pemasok": "PT SKM",
+        "alamat": NaN,
+        "desa": "Langnga",
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": NaN,
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.49533,
+          -7.696833
+        ]
+      },
+      "properties": {
+        "pltu": "Indramayu",
+        "pemasok": "PT Aswattha Inti Sejahtera; Sumber",
+        "alamat": "Parigi, Kecamatan Parigi, Jawa Barat",
+        "desa": "Parigi",
+        "kecamatan": "Parigi",
+        "kabupatenkota": "Pangandaran",
+        "provinsi": "Jawa Barat",
+        "production_rate_tpy": 48000.0,
+        "category_shh": "SH",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.96547,
+          -6.28214
+        ]
+      },
+      "properties": {
+        "pltu": "Indramayu",
+        "pemasok": "PT Dharma Energi",
+        "alamat": "Jalan Raya Sumuradem, Kecamatan Sukra, Indramayu",
+        "desa": "Sumuradem",
+        "kecamatan": "Sukra",
+        "kabupatenkota": "Indramayu",
+        "provinsi": "Jawa Barat",
+        "production_rate_tpy": 20000.0,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.96547,
+          -6.28214
+        ]
+      },
+      "properties": {
+        "pltu": "Indramayu",
+        "pemasok": "PT Dharma Energi",
+        "alamat": "Jalan Raya Sumuradem, Kecamatan Sukra, Indramayu",
+        "desa": "Sumuradem",
+        "kecamatan": "Sukra",
+        "kabupatenkota": "Indramayu",
+        "provinsi": "Jawa Barat",
+        "production_rate_tpy": 36000.0,
+        "category_shh": "H",
+        "keterangan": "Stockpile",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.281616,
+          -8.169959
+        ]
+      },
+      "properties": {
+        "pltu": "Pacitan ",
+        "pemasok": "PT PTS",
+        "alamat": "Ds. Bungur, Kec. Tulakan, Kab. Pacitan, Jawa Timur",
+        "desa": "Bungur",
+        "kecamatan": "Tulakan",
+        "kabupatenkota": "Pacitan",
+        "provinsi": "Jawa Timur",
+        "production_rate_tpy": 100000.0,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.30025,
+          -8.254778
+        ]
+      },
+      "properties": {
+        "pltu": "Pacitan ",
+        "pemasok": "PT WKS",
+        "alamat": "RT 04, RW 10, Dusun Taman Desa Hadiwarno, Kec. Ngadirojo, Kab. Pacitan, Jawa Timur",
+        "desa": "Hadiwarno",
+        "kecamatan": "Ngadirojo",
+        "kabupatenkota": "Pacitan",
+        "provinsi": "Jawa Timur",
+        "production_rate_tpy": 60000.0,
+        "category_shh": "SH",
+        "keterangan": "Sumber biomassa & FasProd",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.546917,
+          -7.018917
+        ]
+      },
+      "properties": {
+        "pltu": "Suralaya 1-7",
+        "pemasok": "PT MJC",
+        "alamat": "Gg. Irigasi Utara Timur Bogeg, No. 72, RT 03/01 Karang Layung, Kec. Sukra",
+        "desa": "Karang Layung",
+        "kecamatan": "Sukra",
+        "kabupatenkota": "Indramayu",
+        "provinsi": "Jawa Barat",
+        "production_rate_tpy": 36000.0,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.05063,
+          -5.519788
+        ]
+      },
+      "properties": {
+        "pltu": "Suralaya 1-7",
+        "pemasok": "PT SEU",
+        "alamat": "Banjarsari RT 034 RW 007, Kel. Banjasari, Kec. Metro Utara, Kota Metro, Provinsi Lampung",
+        "desa": "Banjarsari",
+        "kecamatan": "Metro Utara",
+        "kabupatenkota": "Metro",
+        "provinsi": "Lampung",
+        "production_rate_tpy": 42000.0,
+        "category_shh": "H",
+        "keterangan": "Fasilitas Produksi",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.192,
+          -4.183558
+        ]
+      },
+      "properties": {
+        "pltu": "Suralaya 8",
+        "pemasok": "PT Medico",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 575.0,
+        "category_shh": NaN,
+        "keterangan": NaN,
+        "status": "Not Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.061917,
+          -6.974556
+        ]
+      },
+      "properties": {
+        "pltu": "Tanjung Awar-Awar",
+        "pemasok": "CV Barokah Abadi ; Stockpile",
+        "alamat": "Ds. Sambongrejo RT 002 RW 002 Kec. Semanding",
+        "desa": "Sambongrejo",
+        "kecamatan": "Semanding",
+        "kabupatenkota": "Tuban",
+        "provinsi": "Jawa Timur",
+        "production_rate_tpy": 1500.0,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.842285,
+          -7.75805
+        ]
+      },
+      "properties": {
+        "pltu": "Tanjung Awar-Awar",
+        "pemasok": "CV Barokah Abadi ; Sumber 1",
+        "alamat": "Klodan, Kec. Nganjuk, Kab Nganjuk",
+        "desa": "Klodan",
+        "kecamatan": "Nganjuk",
+        "kabupatenkota": "Nganjuk",
+        "provinsi": "Jawa Timur",
+        "production_rate_tpy": 120000.0,
+        "category_shh": "SH",
+        "keterangan": "Stockpile",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.831909,
+          -7.736515
+        ]
+      },
+      "properties": {
+        "pltu": "Tanjung Awar-Awar",
+        "pemasok": "CV Barokah Abadi",
+        "alamat": "Tengger Blongko, Kec. Ngetos, Kab. Nganjuk",
+        "desa": "Blongko",
+        "kecamatan": "Ngetos",
+        "kabupatenkota": "Nganjuk",
+        "provinsi": "Jawa Timur",
+        "production_rate_tpy": 9000.0,
+        "category_shh": "SH",
+        "keterangan": "Sumber Biomass ",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.0044,
+          -6.8243
+        ]
+      },
+      "properties": {
+        "pltu": "Tanjung Awar-Awar",
+        "pemasok": "PT Rizki Agro Pratama ; Stockpile",
+        "alamat": "Jalan Beji Raya",
+        "desa": "Sadang",
+        "kecamatan": "Jatirogo",
+        "kabupatenkota": "Tuban",
+        "provinsi": "Jawa Timur",
+        "production_rate_tpy": 24000.0,
+        "category_shh": "H",
+        "keterangan": "Sumber Biomass ",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.96301,
+          0.494106
+        ]
+      },
+      "properties": {
+        "pltu": "Bengkayang",
+        "pemasok": "PT SKM Tender Sawdust",
+        "alamat": "Dusun Semanyar, Desa Sungai Kunyit Hulu, Kec. Sungai Kunyit \nHulu, Kab. Mempawah, Prov. Kalimantan Barat",
+        "desa": "Sungai Kunyit Hulu",
+        "kecamatan": "Sungai Kunyit Hulu",
+        "kabupatenkota": "Mempawah",
+        "provinsi": "Kalimantan Barat",
+        "production_rate_tpy": 720.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.983111,
+          0.448177
+        ]
+      },
+      "properties": {
+        "pltu": "Bengkayang",
+        "pemasok": "PT SKM Tender Sawdust",
+        "alamat": "Jl. Parit Serikat, Desa Malikian, Kec. Mempawah Hilir, Kab \nMempawah, Kalimantan Barat",
+        "desa": "Malikian",
+        "kecamatan": "Mempawah Hilir",
+        "kabupatenkota": "Mempawah",
+        "provinsi": "Kalimantan Barat",
+        "production_rate_tpy": 840.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.142179,
+          0.335562
+        ]
+      },
+      "properties": {
+        "pltu": "Bengkayang",
+        "pemasok": "PT SKM Tender Sawdust",
+        "alamat": "Gg. Kartika, Desa Anjungan Melancar, Kec. Anjongan, Kab. \nMempawah, Pro. Kalimantan Barat ",
+        "desa": "Anjungan Melancar",
+        "kecamatan": "Anjongan",
+        "kabupatenkota": "Mempawah",
+        "provinsi": "Kalimantan Barat",
+        "production_rate_tpy": 840.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.995759,
+          0.402946
+        ]
+      },
+      "properties": {
+        "pltu": "Bengkayang",
+        "pemasok": "PT SKM Tender Sawdust",
+        "alamat": "Jl. Raden Patih Gumantar, Desa Pasir, Kec. Mempawah Hilir, \nKab. Mempawah, Prov. Kalimantan Barat ",
+        "desa": "Pasir",
+        "kecamatan": "Mempawah Hilir",
+        "kabupatenkota": "Mempawah",
+        "provinsi": "Kalimantan Barat",
+        "production_rate_tpy": 720.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.984563,
+          0.431219
+        ]
+      },
+      "properties": {
+        "pltu": "Bengkayang",
+        "pemasok": "PT SKM Tender Sawdust",
+        "alamat": "Jl. KH. Wahid Hasyim, Desa Sengkubang, Kec. Mempawah Hilir, Kab. Mempawah, Kalimantan Barat ",
+        "desa": "Sengkubang",
+        "kecamatan": "Mempawah Hilir",
+        "kabupatenkota": "Mempawah",
+        "provinsi": "Kalimantan Barat",
+        "production_rate_tpy": 840.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.016856,
+          0.376899
+        ]
+      },
+      "properties": {
+        "pltu": "Bengkayang",
+        "pemasok": "PT SKM Tender Sawdust",
+        "alamat": "Dusun Pak Nungkat, Desa Sekabuk, Kec. Sadaniang, \nKab. Mempawah, Kalimantan Barat Somel/Pengolahan Kayu ",
+        "desa": "Antibar",
+        "kecamatan": "Mempawah Timur",
+        "kabupatenkota": "Mempawah",
+        "provinsi": "Kalimantan Barat",
+        "production_rate_tpy": 360.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.115695,
+          0.453685
+        ]
+      },
+      "properties": {
+        "pltu": "Bengkayang",
+        "pemasok": "PT SKM Tender Sawdust",
+        "alamat": "Dusun Pak Nungkat, Desa Sekabuk, Kec. Sadaniang, \nKab. Mempawah, Kalimantan Barat Somel/Pengolahan Kayu ",
+        "desa": "Sekabuk",
+        "kecamatan": "Sadaniang",
+        "kabupatenkota": "Mempawah",
+        "provinsi": "Kalimantan Barat",
+        "production_rate_tpy": 960.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.025016,
+          0.914915
+        ]
+      },
+      "properties": {
+        "pltu": "Bengkayang",
+        "pemasok": "PT SKM Tender Sawdust",
+        "alamat": "Gg. Flora, Kel. Roban, Kec. Singkawang Tengah, Kota \nSingkawang, Kalimantan Barat ",
+        "desa": "Flora",
+        "kecamatan": "Singkawang Tengah",
+        "kabupatenkota": "Singkawang",
+        "provinsi": "Kalimantan Barat",
+        "production_rate_tpy": 960.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.020628,
+          0.350386
+        ]
+      },
+      "properties": {
+        "pltu": "Bengkayang",
+        "pemasok": "PT SKM Tender Woodchip",
+        "alamat": "Desa Sungai Jaga B",
+        "desa": "Sungai Jaga B",
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 19200.0,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.968314,
+          0.475366
+        ]
+      },
+      "properties": {
+        "pltu": "Bengkayang",
+        "pemasok": "PT SKM Tender Woodchip",
+        "alamat": "Dusun Pelangkeran, RT 006 / RW 003, Desa Semparong Parit Raden, Kecamatan Sungai Kunyit, Kabupaten Mempawah, Kalimantan Barat 78371",
+        "desa": "Semparong Parit Raden",
+        "kecamatan": "Sungai Kunyit",
+        "kabupatenkota": "Mempawah",
+        "provinsi": "Kalimantan Barat",
+        "production_rate_tpy": 18000.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.007322,
+          0.334913
+        ]
+      },
+      "properties": {
+        "pltu": "Bengkayang",
+        "pemasok": "PT SKM Tender Woodchip",
+        "alamat": "Dusun Konsasi, Desa Sui Bakau Kecil, Kecamatan Mempawah Timur, Kabupaten Mempawah, Provinsi Kalimantan Barat 78919",
+        "desa": "Sui Bakau Kecil ",
+        "kecamatan": "Mempawah Timur",
+        "kabupatenkota": "Mempawah",
+        "provinsi": "Kalimantan Barat",
+        "production_rate_tpy": 18000.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.318732,
+          1.145475
+        ]
+      },
+      "properties": {
+        "pltu": "Bengkayang",
+        "pemasok": " PT Rana Wastu Kencana",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 115200.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Not Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.707593,
+          0.798298
+        ]
+      },
+      "properties": {
+        "pltu": "Bengkayang",
+        "pemasok": "PT Bumi Tata Lestari ",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 115200.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Not Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.694127,
+          0.070559
+        ]
+      },
+      "properties": {
+        "pltu": "Bengkayang",
+        "pemasok": "PT Agrina Sawit Perdana",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 144000.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Not Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.000278,
+          1.36725
+        ]
+      },
+      "properties": {
+        "pltu": "Berau",
+        "pemasok": "CV Anugrah Abadi ; Sumber 1",
+        "alamat": "Desa Biantan Ilir, Kecamatan Biantan, Kabupaten Berau, Kalimantan Timur",
+        "desa": "Biantar Ilir",
+        "kecamatan": "Biantan",
+        "kabupatenkota": "Berau",
+        "provinsi": "Kalimantan Timur",
+        "production_rate_tpy": 12000.0,
+        "category_shh": "SH ",
+        "keterangan": "PT Dwiwira Lestari Jaya",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.129027,
+          1.465472
+        ]
+      },
+      "properties": {
+        "pltu": "Berau",
+        "pemasok": "CV Anugrah Abadi ; Sumber 2",
+        "alamat": NaN,
+        "desa": "Merapun",
+        "kecamatan": "Kelay",
+        "kabupatenkota": "Berau",
+        "provinsi": "Kalimantan Timur",
+        "production_rate_tpy": 12000.0,
+        "category_shh": "SH ",
+        "keterangan": "PT Anugerah Agung Prima Abadi",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.13113,
+          -2.73579
+        ]
+      },
+      "properties": {
+        "pltu": "Berau",
+        "pemasok": "PT KBE Woodchip",
+        "alamat": "Desa Muara Lesan, Kelay, Kabupaten Berau, Kalimantan Timur",
+        "desa": "Muara Lesan",
+        "kecamatan": "Kelay",
+        "kabupatenkota": "Berau",
+        "provinsi": "Kalimantan Timur",
+        "production_rate_tpy": 6600.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.968111,
+          1.764194
+        ]
+      },
+      "properties": {
+        "pltu": "Berau",
+        "pemasok": "PT TNK ",
+        "alamat": "Tabalar Ulu, Tabalar, Berau, Kalimantan Timur",
+        "desa": "Tabalar Ulu",
+        "kecamatan": "Tabalar",
+        "kabupatenkota": "Berau",
+        "provinsi": "Kalimantan Timur",
+        "production_rate_tpy": 5040.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6373,
+          -0.4888
+        ]
+      },
+      "properties": {
+        "pltu": "Teluk Sirih",
+        "pemasok": "CV RHJ Tender Woodchip",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": "Rambatan",
+        "kabupatenkota": "Tanah Datar Nagari",
+        "provinsi": "Sumatera Barat",
+        "production_rate_tpy": 20000.0,
+        "category_shh": NaN,
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4229,
+          -1.0039
+        ]
+      },
+      "properties": {
+        "pltu": "Teluk Sirih",
+        "pemasok": "UD Jasa Maju Jaya NTK",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 5400.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4351,
+          -1.0139
+        ]
+      },
+      "properties": {
+        "pltu": "Teluk Sirih",
+        "pemasok": "UD Jasa Maju Jaya NTK",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 9600.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.467,
+          -1.0955
+        ]
+      },
+      "properties": {
+        "pltu": "Teluk Sirih",
+        "pemasok": "UD Jasa Maju Jaya NTK",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 3000.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.386643,
+          -2.887776
+        ]
+      },
+      "properties": {
+        "pltu": "Bukit Asam",
+        "pemasok": "CV Kasenda",
+        "alamat": "Pangkalan Balai Banyu Asin Sumatera Selatan",
+        "desa": "Pangkalan Balai",
+        "kecamatan": "Banyu Asin III",
+        "kabupatenkota": "Banyu Asin",
+        "provinsi": "Sumatera Selatan",
+        "production_rate_tpy": 72.0,
+        "category_shh": "H",
+        "keterangan": "FasProd",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.9672417,
+          -1.8591935
+        ]
+      },
+      "properties": {
+        "pltu": "Ketapang",
+        "pemasok": "CV Zebra Line",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 8400.0,
+        "category_shh": NaN,
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.81415081,
+          -2.2002571
+        ]
+      },
+      "properties": {
+        "pltu": "Ketapang",
+        "pemasok": "PT MTS ; Sumber 1",
+        "alamat": "Bantan Sari Kec. Marau Kab. Ketapang Kalimantan Barat",
+        "desa": "Bantan Sari",
+        "kecamatan": "Marau",
+        "kabupatenkota": "Ketapang",
+        "provinsi": "Kalimantan Barat",
+        "production_rate_tpy": 18000.0,
+        "category_shh": "SH ",
+        "keterangan": "PT Pertiwi Lenggara Agromas",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.922928217,
+          -2.1656335
+        ]
+      },
+      "properties": {
+        "pltu": "Ketapang",
+        "pemasok": "PT MTS ; Sumber 2",
+        "alamat": "Biku Sarana, Kec. Jelai Hulu, Kab. Ketapang, Kalimantan Barat",
+        "desa": "Biku Sarana",
+        "kecamatan": "Jelai Hulu",
+        "kabupatenkota": "Ketapang",
+        "provinsi": "Kalimantan Barat",
+        "production_rate_tpy": 18000.0,
+        "category_shh": "SH ",
+        "keterangan": "Pabrik Kenari Mill",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.518728,
+          -2.0996908
+        ]
+      },
+      "properties": {
+        "pltu": "Ketapang",
+        "pemasok": "PT MTS ; Sumber 3",
+        "alamat": "Rangkung, Kec. Marau, Kab. Ketapang, Kalimantan Barat",
+        "desa": "Rangkung",
+        "kecamatan": "Marau",
+        "kabupatenkota": "Ketapang",
+        "provinsi": "Kalimantan Barat",
+        "production_rate_tpy": 18000.0,
+        "category_shh": "SH ",
+        "keterangan": "Kenanga Mill",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.51599,
+          -2.142839
+        ]
+      },
+      "properties": {
+        "pltu": "Ketapang",
+        "pemasok": "PT PKS ; Sumber 1",
+        "alamat": "Desa Randai, Kec. Marau, Kab. Ketapang, \nKalimantan Barat 78862_x000D_",
+        "desa": "Randai",
+        "kecamatan": "Marau",
+        "kabupatenkota": "Ketapang",
+        "provinsi": "Kalimantan Barat",
+        "production_rate_tpy": NaN,
+        "category_shh": "SH ",
+        "keterangan": "PT Kencana Graha Permai",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.465148,
+          -1.100549
+        ]
+      },
+      "properties": {
+        "pltu": "Ketapang",
+        "pemasok": "PT PKS ; Sumber 2",
+        "alamat": "Desa Tlk. Bayur, Kec. Sungai Laur, Kab. Ketapang, \nKalimantan Barat 79417",
+        "desa": "Tlk Bayur",
+        "kecamatan": "Sungai Laur",
+        "kabupatenkota": "Ketapang",
+        "provinsi": "Kalimantan Barat",
+        "production_rate_tpy": NaN,
+        "category_shh": "SH ",
+        "keterangan": "PT Prakarsa Tani Sejati",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.53337,
+          -1.012355
+        ]
+      },
+      "properties": {
+        "pltu": "Ketapang",
+        "pemasok": "PT PKS ; Sumber 3",
+        "alamat": "Harapan, Kec. Sungai Laur, Kab. Ketapang, \nKalimantan Barat 7887",
+        "desa": "Harapan",
+        "kecamatan": "Sungai Laur",
+        "kabupatenkota": "Ketapang",
+        "provinsi": "Kalimantan Barat",
+        "production_rate_tpy": NaN,
+        "category_shh": "SH ",
+        "keterangan": "PT Batu Mas Sejahtera",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.677518,
+          -1.719357
+        ]
+      },
+      "properties": {
+        "pltu": "Ketapang",
+        "pemasok": "PT PKS ; Sumber 4",
+        "alamat": "Desa Tanjung Beulang, Kec. Tumbang Titi, Kab. \nKetapang, Kalimantan Barat 78877",
+        "desa": "Tanjung Beulang",
+        "kecamatan": "Tumbang Titi",
+        "kabupatenkota": "Ketapang",
+        "provinsi": "Kalimantan Barat",
+        "production_rate_tpy": NaN,
+        "category_shh": "SH ",
+        "keterangan": "PT Lestari Abadi Perkasa",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.922947,
+          -2.165649
+        ]
+      },
+      "properties": {
+        "pltu": "Ketapang",
+        "pemasok": "PT PKS ; Sumber 5",
+        "alamat": "Biku Sarana, Kec. Jelai Hulu, Kabupaten Ketapang, \nKalimantan Barat 78864",
+        "desa": "Biku Sarana",
+        "kecamatan": "Jelai Hulu",
+        "kabupatenkota": "Ketapang",
+        "provinsi": "Kalimantan Barat",
+        "production_rate_tpy": NaN,
+        "category_shh": "SH ",
+        "keterangan": "PT Bangun Nusa Mandiri",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.458553,
+          -1.520324
+        ]
+      },
+      "properties": {
+        "pltu": "Ketapang",
+        "pemasok": "PT PKS ; Sumber 6",
+        "alamat": "Lembah Hijau I, Nanga Tayap, Ketapang Regency, \nWest Kalimantan 78873",
+        "desa": "Lembah Hijau I",
+        "kecamatan": "Nanga Tayap",
+        "kabupatenkota": "Ketapang",
+        "provinsi": "Kalimantan Barat",
+        "production_rate_tpy": NaN,
+        "category_shh": "SH ",
+        "keterangan": "PT Agro Lestari Mandiri",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.318732163449,
+          1.14547571646771
+        ]
+      },
+      "properties": {
+        "pltu": "Ketapang",
+        "pemasok": "PT TEN ; Sumber 1",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 525600.0,
+        "category_shh": "SH ",
+        "keterangan": "PT Rana Wastu Kencana",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.707593195841,
+          0.798298469177642
+        ]
+      },
+      "properties": {
+        "pltu": "Ketapang",
+        "pemasok": "PT TEN ; Sumber 2",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 525600.0,
+        "category_shh": "SH ",
+        "keterangan": "PT Bumi Tata Lestari",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.694127364194,
+          0.0705592515905186
+        ]
+      },
+      "properties": {
+        "pltu": "Ketapang",
+        "pemasok": "PT TEN ; Sumber 3",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 657000.0,
+        "category_shh": "SH ",
+        "keterangan": "Pt Agrina Sawit Perdana",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.6034,
+          4.0094
+        ]
+      },
+      "properties": {
+        "pltu": "Nagan Raya",
+        "pemasok": "PT Passe Maju Bersama Tender Sawdust",
+        "alamat": " Leuken, Kecamatan Samatiga, Kabupaten Aceh Barat, Provinsi Aceh",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 7200.0,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.076266,
+          5.266829
+        ]
+      },
+      "properties": {
+        "pltu": "Nagan Raya",
+        "pemasok": "PT Palma Banna Mandiri",
+        "alamat": " Leuken, Kecamatan Samatiga, Kabupaten Aceh Barat, Provinsi Aceh",
+        "desa": "Leuken",
+        "kecamatan": "Samatiga",
+        "kabupatenkota": "Aceh Barat ",
+        "provinsi": "Aceh",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": "Stockpile",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.376338,
+          0.071406
+        ]
+      },
+      "properties": {
+        "pltu": "Nagan Raya",
+        "pemasok": "PT Palma Banna Mandiri",
+        "alamat": "Keude Ungga, Kecamatan Lhoksukon, Kabupaten Aceh Utara, Provinsi Aceh",
+        "desa": "Keude Ungga",
+        "kecamatan": "Lhoksukon",
+        "kabupatenkota": "Aceh Utara",
+        "provinsi": "Aceh",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": "Stockpile",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.575088,
+          4.7495
+        ]
+      },
+      "properties": {
+        "pltu": "Nagan Raya",
+        "pemasok": "PT Palma Banna Mandiri",
+        "alamat": "Paya Laut, Kecamatan Tanah Jambo Aye, Kabupaten Aceh Utara, Provinsi Aceh",
+        "desa": "Paya Laut",
+        "kecamatan": "Tanah Jambo Aye",
+        "kabupatenkota": "Aceh Utara",
+        "provinsi": "Aceh",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": "Stockpile",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.263279,
+          4.244055
+        ]
+      },
+      "properties": {
+        "pltu": "Nagan Raya",
+        "pemasok": "PT Palma Banna Mandiri",
+        "alamat": "Alue Panyang, Kecamatan Woyla, Kabupaten Aceh Barat, Provinsi Aceh",
+        "desa": "Alue Panyang",
+        "kecamatan": "Woyla",
+        "kabupatenkota": "Aceh Barat ",
+        "provinsi": "Aceh",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": "Stockpile",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.193897,
+          4.107171
+        ]
+      },
+      "properties": {
+        "pltu": "Nagan Raya",
+        "pemasok": "PT Palma Banna Mandiri",
+        "alamat": " Suak Puntong, Kecamatan Kuala Pesisir, Kabupaten Nagan Raya, Provinsi Aceh, Kode Pos 23681",
+        "desa": "Suak Puntong",
+        "kecamatan": " Kuala Pesisir",
+        "kabupatenkota": "Nagan Raya",
+        "provinsi": "Aceh",
+        "production_rate_tpy": 7200.0,
+        "category_shh": "H",
+        "keterangan": "Stockpile",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.181161,
+          4.156249
+        ]
+      },
+      "properties": {
+        "pltu": "Nagan Raya",
+        "pemasok": "PT Kurma Karya Global",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 5400.0,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.11135,
+          4.526988
+        ]
+      },
+      "properties": {
+        "pltu": "Nagan Raya",
+        "pemasok": "CV Jasa Saudara",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 200.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.4,
+          4.2683
+        ]
+      },
+      "properties": {
+        "pltu": "Nagan Raya",
+        "pemasok": "CV. KP Rizki Perkasa",
+        "alamat": "Gampong Babah Krueng, Kecamatan Beutong, Kabupaten Nagan Raya, Provinsi Aceh",
+        "desa": "Gampong Babah Krueng",
+        "kecamatan": "Beutong",
+        "kabupatenkota": "Nagan Raya",
+        "provinsi": "Aceh",
+        "production_rate_tpy": 400.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1619,
+          4.1672
+        ]
+      },
+      "properties": {
+        "pltu": "Nagan Raya",
+        "pemasok": "Kilang Padi Jasmine",
+        "alamat": "Gampong Mesjid Tuha, Kecamatan Meureubo, Kabupaten Aceh Barat, Provinsi Aceh",
+        "desa": "Gampong Mesjid Tuha",
+        "kecamatan": "Meureubo",
+        "kabupatenkota": " Aceh Barat",
+        "provinsi": "Aceh",
+        "production_rate_tpy": 200.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.921214,
+          -4.169184
+        ]
+      },
+      "properties": {
+        "pltu": "Nii Tanasa",
+        "pemasok": "PT HAP",
+        "alamat": "Kelurahan Welala, Kecamatan Ladongi, Kabupaten Kolaka Timur, Provinsi Sulawesi Tenggara",
+        "desa": "Welala",
+        "kecamatan": "Ladongi",
+        "kabupatenkota": "Kolaka Timur",
+        "provinsi": "Sulawesi Tenggara",
+        "production_rate_tpy": 40000.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.498409,
+          -4.336472
+        ]
+      },
+      "properties": {
+        "pltu": "Nii Tanasa",
+        "pemasok": "PT HAP",
+        "alamat": "Lamangga RT 1 RW 1, Kelurahan Punggulakku, Konawe Selatan, Sulawesi Tenggara",
+        "desa": "Punggulakku",
+        "kecamatan": "Laeya",
+        "kabupatenkota": "Konawe Selatan",
+        "provinsi": "Sulawesi Tenggara",
+        "production_rate_tpy": 40000.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.2439457,
+          -4.1061529
+        ]
+      },
+      "properties": {
+        "pltu": "Nii Tanasa",
+        "pemasok": "PT HAP",
+        "alamat": "Kec Mowila, Kab. Konawe Selatan",
+        "desa": NaN,
+        "kecamatan": "Mowila",
+        "kabupatenkota": "Konawe Selatan",
+        "provinsi": "Sulawesi Tenggara",
+        "production_rate_tpy": 72000.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.249578,
+          -4.462585
+        ]
+      },
+      "properties": {
+        "pltu": "Nii Tanasa",
+        "pemasok": "PT SKM",
+        "alamat": "Desa Watumdeba, Kec. Palangga, Kab. Konawe Selatan",
+        "desa": "Watumdeba",
+        "kecamatan": "Palangga",
+        "kabupatenkota": "Konawe Selatan",
+        "provinsi": "Sulawesi Tenggara",
+        "production_rate_tpy": 7200.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.323614,
+          -4.401298
+        ]
+      },
+      "properties": {
+        "pltu": "Nii Tanasa",
+        "pemasok": "PT SKM",
+        "alamat": "Desa Watumdeba, Kec. Palangga, Kab. Konawe Selatan",
+        "desa": "Watumdeba",
+        "kecamatan": "Palangga",
+        "kabupatenkota": "Konawe Selatan",
+        "provinsi": "Sulawesi Tenggara",
+        "production_rate_tpy": 6000.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.373632,
+          -4.444173
+        ]
+      },
+      "properties": {
+        "pltu": "Nii Tanasa",
+        "pemasok": "PT SKM",
+        "alamat": "\tDesa Koeono, Kec. Palangga Selatan, Kab. Konawe Selatan",
+        "desa": "Koeono",
+        "kecamatan": "Palangga",
+        "kabupatenkota": "Konawe Selatan",
+        "provinsi": "Sulawesi Tenggara",
+        "production_rate_tpy": 8400.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.29845,
+          -4.365737
+        ]
+      },
+      "properties": {
+        "pltu": "Nii Tanasa",
+        "pemasok": "PT SKM",
+        "alamat": "Desa Kiaeae, Kec. Palangga, Kab. Konawe Selatan",
+        "desa": "Kiaeae",
+        "kecamatan": "Palangga",
+        "kabupatenkota": "Konawe Selatan",
+        "provinsi": "Sulawesi Tenggara",
+        "production_rate_tpy": 7200.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.344396,
+          -4.444059
+        ]
+      },
+      "properties": {
+        "pltu": "Nii Tanasa",
+        "pemasok": "PT SKM",
+        "alamat": "Desa Kiaeae, Kec. Palangga, Kab. Konawe Selatan",
+        "desa": "Kiaeae",
+        "kecamatan": "Palangga",
+        "kabupatenkota": "Konawe Selatan",
+        "provinsi": "Sulawesi Tenggara",
+        "production_rate_tpy": 6000.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.355715,
+          -4.457482
+        ]
+      },
+      "properties": {
+        "pltu": "Nii Tanasa",
+        "pemasok": "PT SKM",
+        "alamat": "\tDesa Ulu Lakara, Kec. Palangga Selatan, Kab. Konawe Selatan",
+        "desa": "Ulu Lakara",
+        "kecamatan": "Palangga",
+        "kabupatenkota": "Konawe Selatan",
+        "provinsi": "Sulawesi Tenggara",
+        "production_rate_tpy": 4800.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.364023,
+          -4.427505
+        ]
+      },
+      "properties": {
+        "pltu": "Nii Tanasa",
+        "pemasok": "PT SKM",
+        "alamat": "\tDesa Kiaeae, Kec. Palangga, Kab. Konawe Selatan",
+        "desa": "Kiaeae",
+        "kecamatan": "Palangga",
+        "kabupatenkota": "Konawe Selatan",
+        "provinsi": "Sulawesi Tenggara",
+        "production_rate_tpy": 6000.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.152746,
+          4.135699
+        ]
+      },
+      "properties": {
+        "pltu": "Nii Tanasa",
+        "pemasok": "PT SES",
+        "alamat": "Desa Sandei, Angata, Konawe Selatan",
+        "desa": "Sandei",
+        "kecamatan": "Angata",
+        "kabupatenkota": "Konawe Selatan",
+        "provinsi": "Sulawesi Tenggara",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.45419,
+          -5.38278
+        ]
+      },
+      "properties": {
+        "pltu": "Punagaya",
+        "pemasok": "PT SHM ; Stockpile 1",
+        "alamat": "Panrannuangku, Kec. Polombangkeng Utara, Kabupaten Takalar, Sulawesi Selatan 92211",
+        "desa": "Panrannuangku",
+        "kecamatan": "Polombangkeng Utara",
+        "kabupatenkota": "Takalar",
+        "provinsi": "Sulawesi Selatan",
+        "production_rate_tpy": 400.0,
+        "category_shh": "H",
+        "keterangan": "Stockpile",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.44944,
+          -5.38423
+        ]
+      },
+      "properties": {
+        "pltu": "Punagaya",
+        "pemasok": "PT SHM ; Stockpile 2",
+        "alamat": "Bontorita, Kec. Polombangkeng Utara, Kabupaten Takalar, Sulawesi Selatan 92211",
+        "desa": "Bontorita",
+        "kecamatan": "Polombangkeng Utara",
+        "kabupatenkota": "Takalar",
+        "provinsi": "Sulawesi Selatan",
+        "production_rate_tpy": 600.0,
+        "category_shh": "H",
+        "keterangan": "Stockpile",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.4565,
+          -5.381
+        ]
+      },
+      "properties": {
+        "pltu": "Punagaya",
+        "pemasok": "PT SHM ; Stockpile 3",
+        "alamat": "Manongkoki, Kec. Polombangkeng Utara, Kabupaten Takalar, Sulawesi Selatan 92211",
+        "desa": "Manongkoki",
+        "kecamatan": "Polombangkeng Utara",
+        "kabupatenkota": "Takalar",
+        "provinsi": "Sulawesi Selatan",
+        "production_rate_tpy": 700.0,
+        "category_shh": "H",
+        "keterangan": "Stockpile",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.50339,
+          -5.36403
+        ]
+      },
+      "properties": {
+        "pltu": "Punagaya",
+        "pemasok": "PT SHM ; Sumber 1",
+        "alamat": "Massamaturu, Kec. Polombangkeng Utara, Kabupaten Takalar, Sulawesi Selatan 92211",
+        "desa": "Massamaturu",
+        "kecamatan": "Polombangkeng Utara",
+        "kabupatenkota": "Takalar",
+        "provinsi": "Sulawesi Selatan",
+        "production_rate_tpy": 1800.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.51512,
+          -5.31911
+        ]
+      },
+      "properties": {
+        "pltu": "Punagaya",
+        "pemasok": "PT SHM ; Sumber 2",
+        "alamat": "Desa Towata, Kec. Polombangkeng Utara, Kabupaten Takalar, Sulawesi Selatan 92211",
+        "desa": "Towata",
+        "kecamatan": "Polombangkeng Utara",
+        "kabupatenkota": "Takalar",
+        "provinsi": "Sulawesi Selatan",
+        "production_rate_tpy": 2400.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.54092,
+          -5.40106
+        ]
+      },
+      "properties": {
+        "pltu": "Punagaya",
+        "pemasok": "PT SHM ; Sumber 3",
+        "alamat": "Desa Ko’mara, Kec. Polombangkeng Utara, Kabupaten Takalar, Sulawesi Selatan 92211",
+        "desa": "Ko’mara",
+        "kecamatan": "Polombangkeng Utara",
+        "kabupatenkota": "Takalar",
+        "provinsi": "Sulawesi Selatan",
+        "production_rate_tpy": 1440.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.45753,
+          -5.38022
+        ]
+      },
+      "properties": {
+        "pltu": "Punagaya",
+        "pemasok": "PT SHM ; Sumber 4",
+        "alamat": "Panrannuangku, Kec. Polombangkeng Utara, Kabupaten Takalar, Sulawesi Selatan 92211",
+        "desa": "Panrannuangku",
+        "kecamatan": "Polombangkeng Utara",
+        "kabupatenkota": "Takalar",
+        "provinsi": "Sulawesi Selatan",
+        "production_rate_tpy": 3060.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.45417,
+          -5.38061
+        ]
+      },
+      "properties": {
+        "pltu": "Punagaya",
+        "pemasok": "PT SHM ; Sumber 5",
+        "alamat": "Batetangnga, Kec. Bontonompo, Kabupaten Gowa, Sulawesi Selatan 92211",
+        "desa": "Batetangnga",
+        "kecamatan": "Bontonompo",
+        "kabupatenkota": "Gowa",
+        "provinsi": "Sulawesi Selatan",
+        "production_rate_tpy": 2520.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.45642,
+          -5.38209
+        ]
+      },
+      "properties": {
+        "pltu": "Punagaya",
+        "pemasok": "PT SHM ; Sumber 6",
+        "alamat": "Panrannuangku, Kec. Polombangkeng Utara, Kabupaten Takalar, Sulawesi Selatan 92211",
+        "desa": "Panrannuangku",
+        "kecamatan": "Polombangkeng Utara",
+        "kabupatenkota": "Takalar",
+        "provinsi": "Sulawesi Selatan",
+        "production_rate_tpy": 840.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.529785,
+          -5.31661
+        ]
+      },
+      "properties": {
+        "pltu": "Punagaya",
+        "pemasok": "PT IKN Spot",
+        "alamat": "Desa Lassang, Kecamatan Polongbangkeng Utara, Kabupaten Takalar",
+        "desa": "Lassang",
+        "kecamatan": "Polongbangkeng Utara",
+        "kabupatenkota": "Takalar",
+        "provinsi": "Sulawesi Selatan",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.49224,
+          -5.45195
+        ]
+      },
+      "properties": {
+        "pltu": "Punagaya",
+        "pemasok": "PT PJK ; Stockpile",
+        "alamat": "Bulukunyi, Kecamatan Polombangkeng Selatan, Kabupaten Takalar",
+        "desa": "Bulukunyi",
+        "kecamatan": "Polombangkeng Selatan",
+        "kabupatenkota": "Takalar",
+        "provinsi": "Sulawesi Selatan",
+        "production_rate_tpy": 1000.0,
+        "category_shh": "H",
+        "keterangan": "Stockpile",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.947492,
+          -5.5316745
+        ]
+      },
+      "properties": {
+        "pltu": "Punagaya",
+        "pemasok": "PT PJK ; Sumber 1",
+        "alamat": "Jalan Kelurahan Bonto Rita, Kabupaten Bataeng, Sulawesi Selatan",
+        "desa": "Bonto Rita",
+        "kecamatan": "Bissappu",
+        "kabupatenkota": "Bataeng",
+        "provinsi": "Sulawesi Selatan",
+        "production_rate_tpy": 7200.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.01932571126,
+          -0.112408388312269
+        ]
+      },
+      "properties": {
+        "pltu": "Pulang Pisau",
+        "pemasok": "PT GWS ; Stockpile 1",
+        "alamat": "Jl. Hj Dullah, Sido Mukti, Muara Kaman, Kutai Kartanegara, Kaltim",
+        "desa": "Sido Mukti",
+        "kecamatan": "Muara Kaman",
+        "kabupatenkota": "Kurtai Kartanegara",
+        "provinsi": "Kalimantan Timur",
+        "production_rate_tpy": 12000.0,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.206155665233,
+          -0.588102491694957
+        ]
+      },
+      "properties": {
+        "pltu": "Pulang Pisau",
+        "pemasok": "PT GWS ; Stockpile 2",
+        "alamat": "Palaran, Samarinda, Kaltim",
+        "desa": NaN,
+        "kecamatan": "Palaran",
+        "kabupatenkota": "Samarinda",
+        "provinsi": "Kalimantan Timur",
+        "production_rate_tpy": 12000.0,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0024694,
+          -0.0016817
+        ]
+      },
+      "properties": {
+        "pltu": "Pulang Pisau",
+        "pemasok": "PT GWS ; Stockpile 3",
+        "alamat": " Desa Puan Cepak, Kec. Muara Kaman, Kutai Kartanegara, Kaltim",
+        "desa": "Puan Cepak",
+        "kecamatan": "Muara Kaman",
+        "kabupatenkota": "Kurtai Kartanegara",
+        "provinsi": "Kalimantan Timur",
+        "production_rate_tpy": 12000.0,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.722337,
+          -2.596076
+        ]
+      },
+      "properties": {
+        "pltu": "Pulang Pisau",
+        "pemasok": "PT GWS ; Sumber",
+        "alamat": "Desa Sungai Rangit RT. 18, Kumai Hulu, Kumai, Kotawaringin Barat, Kalimantan Tengah, 74181",
+        "desa": "Sungai Rangit",
+        "kecamatan": "Kumai Hulu",
+        "kabupatenkota": "Kotawaringin Barat ",
+        "provinsi": "Kalimantan Tengah",
+        "production_rate_tpy": 120000.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.461228538,
+          -0.861394
+        ]
+      },
+      "properties": {
+        "pltu": "Pulang Pisau",
+        "pemasok": "PT MJC ; Stockpile",
+        "alamat": NaN,
+        "desa": "Bata Luar",
+        "kecamatan": "Tanah Pinoh",
+        "kabupatenkota": "Melawi",
+        "provinsi": "Kalimantan Barat",
+        "production_rate_tpy": 750.0,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.593382,
+          -2.584059
+        ]
+      },
+      "properties": {
+        "pltu": "Pulang Pisau",
+        "pemasok": "PT PKS ; Stockpile 1",
+        "alamat": "Dadahup, Kec. Dadahup, Kabupaten Kapuas, Kalimantan Tengah 73552",
+        "desa": "Dadahup",
+        "kecamatan": "Dadahup",
+        "kabupatenkota": "Kapuas",
+        "provinsi": "Kalimantan Tengah",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": "PT. Globalindo Agung Lestari/ Globalindo Oil Mill",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.943733,
+          -3.009742
+        ]
+      },
+      "properties": {
+        "pltu": "Pulang Pisau",
+        "pemasok": "PT PKS ; Stockpile 2",
+        "alamat": "Pandahan, Kec. Tapin Tengah, Kabupaten Tapin, Kalimantan Selatan 71111",
+        "desa": "Pandahan",
+        "kecamatan": "Tapin Tengah",
+        "kabupatenkota": "Tapin",
+        "provinsi": "Kalimantan Selatan",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": "PT. Kharisma Inti Usaha",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.977087,
+          -1.997542
+        ]
+      },
+      "properties": {
+        "pltu": "Pulang Pisau",
+        "pemasok": "PT PKS ; Stockpile 3",
+        "alamat": "Pelantaran, Kec. Cempaga Hulu, Kabupaten Kotawaringin Timur, Kalimantan Tengah 74354",
+        "desa": "Pelantaran",
+        "kecamatan": "Cempaga Hulu",
+        "kabupatenkota": "Kotawaringin Timur",
+        "provinsi": "Kalimantan Tengah",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": "PT. Sarana Prima Multi Niaga",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.50545,
+          -2.740795
+        ]
+      },
+      "properties": {
+        "pltu": "Pulang Pisau",
+        "pemasok": "PT PKS ; Stockpile 4",
+        "alamat": "Tlk. Hiri, Kec. Kapuas Bar, Kabupaten Kapuas, Kalimantan Tengah 73552",
+        "desa": "Tlk Hiri",
+        "kecamatan": "Kapuas Bar",
+        "kabupatenkota": "Kapuas",
+        "provinsi": "Kalimantan Tengah",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": "PT. Lifere Agro Kapuas",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.78336,
+          -3.055229
+        ]
+      },
+      "properties": {
+        "pltu": "Pulang Pisau",
+        "pemasok": "PT PKS ; Stockpile 5",
+        "alamat": "PT Palmina Utama, Desa Simpang Lima, Kec. Sungai Tabuk, Kab. Banjar, Kalimantan Selatan 70673",
+        "desa": "Simpang Lima",
+        "kecamatan": "Sungai Tabuk",
+        "kabupatenkota": "Banjar",
+        "provinsi": "Kalimantan Selatan",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": "PT. Palmina Utama",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.173497,
+          -3.811405
+        ]
+      },
+      "properties": {
+        "pltu": "Pulang Pisau",
+        "pemasok": "PT PKS ; Stockpile 6",
+        "alamat": "PT Pola Kahuripan Inti Sawit, Desa Salamkita, Kec. Katingan Hilir, Kab. Katingan, Kalimantan Tengah 70883",
+        "desa": "Salamkita",
+        "kecamatan": "Katingan Hilir",
+        "kabupatenkota": "Katingan",
+        "provinsi": "Kalimantan Tengah",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": "PT. Pola Kahuripan Inti Sawit",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.92738,
+          -1.310472
+        ]
+      },
+      "properties": {
+        "pltu": "Pulang Pisau",
+        "pemasok": "PT BHP",
+        "alamat": "Jl. Palangka Raya -- Kuala Kurun, Tumbang Danau, Kec. Mihing raya, Kabupaten Gunung MAS, Kalimantan Tengah",
+        "desa": "Tumbang Danau",
+        "kecamatan": "Mihing Raya",
+        "kabupatenkota": "Gunung MAS",
+        "provinsi": "Kalimantan Tengah",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.92738,
+          -1.310472
+        ]
+      },
+      "properties": {
+        "pltu": "Pulang Pisau",
+        "pemasok": "PT CAP WC",
+        "alamat": "Jl. Palangka Raya -- Kuala Kurun, Tumbang Danau, Kec. Mihing raya, Kabupaten Gunung MAS, Kalimantan Tengah",
+        "desa": "Tumbang Danau",
+        "kecamatan": "Mihing Raya",
+        "kabupatenkota": "Gunung MAS",
+        "provinsi": "Kalimantan Tengah",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.6542065,
+          3.149469
+        ]
+      },
+      "properties": {
+        "pltu": "Pulang Pisau",
+        "pemasok": "PT MTS",
+        "alamat": "TST PT SPC 2",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.465246,
+          -1.512027
+        ]
+      },
+      "properties": {
+        "pltu": "Pulang Pisau",
+        "pemasok": "CV SPB",
+        "alamat": "Desa Bereng Jun, Kecamatan Manuhing, Kab. Gunung Mas",
+        "desa": "Bereng Jun",
+        "kecamatan": "Manuhing",
+        "kabupatenkota": "Gunung MAS",
+        "provinsi": "Kalimantan Tengah",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.408327,
+          0.414013
+        ]
+      },
+      "properties": {
+        "pltu": "Tenayan",
+        "pemasok": "PT Bio Energi Suksesindo",
+        "alamat": "Desa Kubang Jawa Kab Kampar Riau",
+        "desa": "Kubang Jaya Kab",
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": NaN,
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.031644,
+          -2.094604
+        ]
+      },
+      "properties": {
+        "pltu": "Air Anyir",
+        "pemasok": "PT BEST",
+        "alamat": "desa Air Duren, Mendo Barat, Bangka, Bangka Belitung",
+        "desa": "Air Duren",
+        "kecamatan": "Mendo Barat",
+        "kabupatenkota": "Bangka",
+        "provinsi": "Bangka Belitung",
+        "production_rate_tpy": 60000.0,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.25376,
+          -8.605369
+        ]
+      },
+      "properties": {
+        "pltu": "Jeranjang",
+        "pemasok": "PT Aswattha Inti Sejahtera",
+        "alamat": "Dusun Bertais, Murbaya Pringgarata, Lombok Tengah NTB",
+        "desa": "Bertais",
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 4200.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.255625,
+          -8.539625
+        ]
+      },
+      "properties": {
+        "pltu": "Jeranjang",
+        "pemasok": "PT Aswattha Inti Sejahtera",
+        "alamat": "Surandi II Sesaot Lobar Narmada Lombok Barat NTB",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 6300.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.28667,
+          -8.57125
+        ]
+      },
+      "properties": {
+        "pltu": "Jeranjang",
+        "pemasok": "PT Aswattha Inti Sejahtera",
+        "alamat": "Pemepek, Pringgarata Lombok Tengah NTB",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 26400.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.290278,
+          -8.564167
+        ]
+      },
+      "properties": {
+        "pltu": "Jeranjang",
+        "pemasok": "PT Aswattha Inti Sejahtera",
+        "alamat": "Repok Pidendang, Pemepek Pringgarata, Lombok Tengah",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 18000.0,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.202209,
+          -8.58516
+        ]
+      },
+      "properties": {
+        "pltu": "Jeranjang",
+        "pemasok": "PT Aswattha Inti Sejahtera",
+        "alamat": "Surandi No 51, Nyur Lembang Narmada, Lombok Barat",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.084692,
+          -8.650208
+        ]
+      },
+      "properties": {
+        "pltu": "Jeranjang",
+        "pemasok": "PT bintang Raya Makmur Sentosa",
+        "alamat": "Dusun Bongor, Desa Taman Ayu, Kecamatan Gerung, Kab Lombok Barat ",
+        "desa": "Bongor Taman Ayu",
+        "kecamatan": "Gerung",
+        "kabupatenkota": "Lombok Barat",
+        "provinsi": NaN,
+        "production_rate_tpy": 5400.0,
+        "category_shh": NaN,
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.084425,
+          -8.682511
+        ]
+      },
+      "properties": {
+        "pltu": "Jeranjang",
+        "pemasok": "PT bintang Raya Makmur Sentosa",
+        "alamat": NaN,
+        "desa": "Bakong Desa Lembar",
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 5400.0,
+        "category_shh": NaN,
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.083786,
+          -8.722155
+        ]
+      },
+      "properties": {
+        "pltu": "Jeranjang",
+        "pemasok": "PT bintang Raya Makmur Sentosa",
+        "alamat": NaN,
+        "desa": "Padak Lembar Selatan",
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 9000.0,
+        "category_shh": NaN,
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.128194,
+          -8.527181
+        ]
+      },
+      "properties": {
+        "pltu": "Jeranjang",
+        "pemasok": "PT Rizki Anugrah Pratama",
+        "alamat": NaN,
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": NaN,
+        "keterangan": NaN,
+        "status": "Not Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.656105,
+          -8.326283
+        ]
+      },
+      "properties": {
+        "pltu": "Jeranjang",
+        "pemasok": "PT Syahroni Rizki Mandiri",
+        "alamat": "Belanting, Sambelia, Lombok Timur, NTB",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 18000.0,
+        "category_shh": NaN,
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.127933,
+          -8.701311
+        ]
+      },
+      "properties": {
+        "pltu": "Jeranjang",
+        "pemasok": "PT Syahroni Rizki Mandiri",
+        "alamat": "Celuk Gedang, Montong Sari, Gerung Utara Lombok Barat, NTB",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 12000.0,
+        "category_shh": NaN,
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.01932571126,
+          -0.588012049
+        ]
+      },
+      "properties": {
+        "pltu": "Teluk Balikpapan",
+        "pemasok": "PT GWS Tender Cangkang ; Sumber 1",
+        "alamat": "Pergudangan Bizpark A-9, Palaran, Samarinda",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 12000.0,
+        "category_shh": "SH ",
+        "keterangan": "PT DNA",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.0855639,
+          -0.0846833
+        ]
+      },
+      "properties": {
+        "pltu": "Teluk Balikpapan",
+        "pemasok": "PT GWS Tender Cangkang ; Stockpile",
+        "alamat": "Desa puan Cepak, Kec. Muara Kaman, Kab. Kukar, Kalimantan Timur",
+        "desa": "Puan Cepak",
+        "kecamatan": "Muara Kaman",
+        "kabupatenkota": "Kukar",
+        "provinsi": "Kalimantan Timur",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": "PT Cahaya Anugerah Plantation",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.566244,
+          -2.892916
+        ]
+      },
+      "properties": {
+        "pltu": "Suge",
+        "pemasok": "PT TABL",
+        "alamat": NaN,
+        "desa": "Pegantungan",
+        "kecamatan": "Badau",
+        "kabupatenkota": "Belitung",
+        "provinsi": "Kepulauan Bangka Belitung",
+        "production_rate_tpy": 25200.0,
+        "category_shh": "H",
+        "keterangan": "FasProd",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1636,
+          4.208729
+        ]
+      },
+      "properties": {
+        "pltu": NaN,
+        "pemasok": "PT Kurma",
+        "alamat": NaN,
+        "desa": "Pasi Teungoh",
+        "kecamatan": "Kaway XVI",
+        "kabupatenkota": "Aceh Barat ",
+        "provinsi": "Aceh",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": "Stockpile",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0876111,
+          -6.0063333
+        ]
+      },
+      "properties": {
+        "pltu": NaN,
+        "pemasok": "PT Artha Daya Coalindo",
+        "alamat": NaN,
+        "desa": "Kedaleman",
+        "kecamatan": "Cibeber",
+        "kabupatenkota": "Cilegon",
+        "provinsi": "Banten",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": "Stockpile",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.377761,
+          5.009379
+        ]
+      },
+      "properties": {
+        "pltu": NaN,
+        "pemasok": "PT Palma banna mandiri woodchip",
+        "alamat": NaN,
+        "desa": "Kareng Ateuh",
+        "kecamatan": "Jaya",
+        "kabupatenkota": "Aceh Jaya",
+        "provinsi": "Aceh",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": "Stockpile",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.710014,
+          -3.627224
+        ]
+      },
+      "properties": {
+        "pltu": NaN,
+        "pemasok": "PT Kasenda ; Sumber 1",
+        "alamat": NaN,
+        "desa": "Nanjungan",
+        "kecamatan": "Kikim Selatan",
+        "kabupatenkota": "Lahat",
+        "provinsi": "Sumatera Selatan",
+        "production_rate_tpy": NaN,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.49543,
+          -3.706161
+        ]
+      },
+      "properties": {
+        "pltu": NaN,
+        "pemasok": "PT Kasenda ; Sumber 2",
+        "alamat": NaN,
+        "desa": "Sari Bunga MAS",
+        "kecamatan": "Lahat",
+        "kabupatenkota": "Lahat",
+        "provinsi": "Sumatera Selatan",
+        "production_rate_tpy": NaN,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.442368,
+          -3.760607
+        ]
+      },
+      "properties": {
+        "pltu": NaN,
+        "pemasok": "PT Kasenda ; Sumber 3",
+        "alamat": NaN,
+        "desa": "Sugih Waras",
+        "kecamatan": "Gumay Talang",
+        "kabupatenkota": "Lahat",
+        "provinsi": "Sumatera Selatan",
+        "production_rate_tpy": NaN,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.245644,
+          3.670335
+        ]
+      },
+      "properties": {
+        "pltu": NaN,
+        "pemasok": "PT Kasenda ; Sumber 4",
+        "alamat": NaN,
+        "desa": "Sungai Laru",
+        "kecamatan": "Kikim Tengah",
+        "kabupatenkota": "Lahat",
+        "provinsi": "Sumatera Selatan",
+        "production_rate_tpy": NaN,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.424057,
+          -3.743955
+        ]
+      },
+      "properties": {
+        "pltu": NaN,
+        "pemasok": "PT Kasenda ; Sumber 5",
+        "alamat": NaN,
+        "desa": "Sugih Waras",
+        "kecamatan": "Gumay Talang",
+        "kabupatenkota": "Lahat",
+        "provinsi": "Sumatera Selatan",
+        "production_rate_tpy": NaN,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.120354,
+          -3.861625
+        ]
+      },
+      "properties": {
+        "pltu": NaN,
+        "pemasok": "PT Kasenda ; Sumber 6",
+        "alamat": NaN,
+        "desa": "Prabu Menang",
+        "kecamatan": "Lubai Ulu",
+        "kabupatenkota": "Muara Enim",
+        "provinsi": "Sumatera Selatan",
+        "production_rate_tpy": NaN,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.226341,
+          -3.728242
+        ]
+      },
+      "properties": {
+        "pltu": NaN,
+        "pemasok": "PT Kasenda ; Sumber 7",
+        "alamat": NaN,
+        "desa": "Aur",
+        "kecamatan": "Lubai",
+        "kabupatenkota": "Muara Enim",
+        "provinsi": "Sumatera Selatan",
+        "production_rate_tpy": NaN,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.350601,
+          -3.691967
+        ]
+      },
+      "properties": {
+        "pltu": NaN,
+        "pemasok": "PT Kasenda ; Sumber 8",
+        "alamat": NaN,
+        "desa": "Petikal Baru",
+        "kecamatan": "Kikim Timur",
+        "kabupatenkota": "Lahat",
+        "provinsi": "Sumatera Selatan",
+        "production_rate_tpy": NaN,
+        "category_shh": "SH ",
+        "keterangan": NaN,
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.11083,
+          4.526687
+        ]
+      },
+      "properties": {
+        "pltu": NaN,
+        "pemasok": "PT kurma woodchip",
+        "alamat": NaN,
+        "desa": "Tungkop",
+        "kecamatan": "Sungai Mas",
+        "kabupatenkota": "Aceh Barat",
+        "provinsi": "Aceh",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": "Stockpile",
+        "status": "Clear"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.035944,
+          -6.044472
+        ]
+      },
+      "properties": {
+        "pltu": "Suralaya",
+        "pemasok": NaN,
+        "alamat": "Jl Lingkar Selatan , Cilegon Timur",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": "Cilegon",
+        "provinsi": "Banten",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.423056,
+          -6.145694
+        ]
+      },
+      "properties": {
+        "pltu": "Lontar",
+        "pemasok": NaN,
+        "alamat": "X24P+697 Bagendung, Kota Cilegon, Banten\n",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": "Cilegon",
+        "provinsi": "Banten",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.835722,
+          -6.397889
+        ]
+      },
+      "properties": {
+        "pltu": "Labuan",
+        "pemasok": NaN,
+        "alamat": "Jl Nasional III  , Jl Kepenimbangan\n",
+        "desa": NaN,
+        "kecamatan": "Margasana",
+        "kabupatenkota": "Pandeglang",
+        "provinsi": "Banten",
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.53,
+          -7.37
+        ]
+      },
+      "properties": {
+        "pltu": "Cilacap",
+        "pemasok": NaN,
+        "alamat": "Jl. Raya Batulawang No.Km.3, Sukamukti, Kec. Pataruman, Kota Banjar, Jawa Barat 46326\n",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.72,
+          -8.05
+        ]
+      },
+      "properties": {
+        "pltu": "Pacitan",
+        "pemasok": NaN,
+        "alamat": "Jl. Ponorogo - Trenggalek, Krajan, Nglongsor, _x000B_Kec. Tugu, Kabupaten Trenggalek, Jawa Timur 66352\n",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.111111,
+          -6.726278
+        ]
+      },
+      "properties": {
+        "pltu": "Tanjung Awar-Awar",
+        "pemasok": NaN,
+        "alamat": "Jl. Raya Pati - Juwana Kec Gading Rejo , Kabupaten Pati",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.111111,
+          -6.726278
+        ]
+      },
+      "properties": {
+        "pltu": "Rembang",
+        "pemasok": NaN,
+        "alamat": "Jl. Lintas Bangkinang - Petapahan , Kec. Bangkinang, Kab. Kampar, Riau 28463\n",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.0817,
+          0.3222
+        ]
+      },
+      "properties": {
+        "pltu": "Tenayan",
+        "pemasok": NaN,
+        "alamat": "Jl. Lintas Bangkinang – Pekanbaru, Kec. Bangkinang, Kab. Kampar, Riau 28463",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 14040.0,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8057,
+          -4.1173
+        ]
+      },
+      "properties": {
+        "pltu": "Tarahan",
+        "pemasok": NaN,
+        "alamat": "Desa Buko Poso, Kec. Way Mesuji, Kabupaten Mesuji, Lampung",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 37440.0,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.542167,
+          -4.622583
+        ]
+      },
+      "properties": {
+        "pltu": "Sebalang",
+        "pemasok": NaN,
+        "alamat": "Bumi Ratu Kec Blambangan Umpu Kab Way Kanan , Lampung \n",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.742444,
+          -3.317083
+        ]
+      },
+      "properties": {
+        "pltu": "Tenayan",
+        "pemasok": NaN,
+        "alamat": "JL Tanpa Nama, Kuala Lelangi Kec Kethan Kab Bengkulu Utara , Bengkulu\n",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.23275,
+          -1.346972
+        ]
+      },
+      "properties": {
+        "pltu": "Teluk Sirih",
+        "pemasok": NaN,
+        "alamat": "Rantau Kembang , KecRimbo Ilir, kab Tebo, Jambi\n",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.678417,
+          -2.504444
+        ]
+      },
+      "properties": {
+        "pltu": "Bukit Asam",
+        "pemasok": NaN,
+        "alamat": " Pasar Singkut , Kec Singkut, Kab Sarolangun, jambi",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": NaN,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": NaN
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3833,
+          -3.0
+        ]
+      },
+      "properties": {
+        "pltu": "Pulang Pisang",
+        "pemasok": NaN,
+        "alamat": "Jl. Kasturi, Pulau Telo, Kec. Selat, Kabupaten Kapuas, Kalimantan Tengah 73516",
+        "desa": NaN,
+        "kecamatan": NaN,
+        "kabupatenkota": NaN,
+        "provinsi": NaN,
+        "production_rate_tpy": 51840.0,
+        "category_shh": "H",
+        "keterangan": NaN,
+        "status": NaN
+      }
+    }
+  ]
+}
