@@ -20,7 +20,7 @@
         "provinsi": "Jawa Tengah",
         "production_rate_tpy": 1.492,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -43,7 +43,7 @@
         "provinsi": "Jawa Tengah",
         "production_rate_tpy": 1.492,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -66,7 +66,7 @@
         "provinsi": "Jawa Tengah",
         "production_rate_tpy": 1.492,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -87,9 +87,9 @@
         "kecamatan": "Tambak",
         "kabupatenkota": "Banyumas",
         "provinsi": "Jawa Tengah",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "SH",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -110,9 +110,9 @@
         "kecamatan": "Karangpucung",
         "kabupatenkota": "Cilacap",
         "provinsi": "Jawa Tengah",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "SH",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -133,9 +133,9 @@
         "kecamatan": "Rowokele",
         "kabupatenkota": "Kab. Kebumen",
         "provinsi": "Jawa Tengah",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "SH",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -158,7 +158,7 @@
         "provinsi": "Jawa Tengah",
         "production_rate_tpy": 550.0,
         "category_shh": "SH",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -175,13 +175,13 @@
         "pltu": "Adipala",
         "pemasok": "PT Arya Adinata ; FasProd 1",
         "alamat": "Banyumas",
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 6000.0,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -204,7 +204,7 @@
         "provinsi": "Jawa Tengah",
         "production_rate_tpy": 24000.0,
         "category_shh": "SH",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -218,7 +218,7 @@
         ]
       },
       "properties": {
-        "pltu": NaN,
+        "pltu": null,
         "pemasok": "PT Aswattha Inti Sejahtera; FasProd",
         "alamat": "Jl. Raya Ciporos, Pasanggrahan, Kec Karang Pucung, Kab Cilacap, Jawa Tengah",
         "desa": "Pasanggrahan",
@@ -227,7 +227,7 @@
         "provinsi": "Jawa Tengah",
         "production_rate_tpy": 18000.0,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -248,9 +248,9 @@
         "kecamatan": "Rowokele",
         "kabupatenkota": "Kab. Kebumen",
         "provinsi": "Jawa Tengah",
-        "production_rate_tpy": NaN,
-        "category_shh": NaN,
-        "keterangan": NaN,
+        "production_rate_tpy": null,
+        "category_shh": null,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -411,7 +411,7 @@
         "provinsi": "Jawa Tengah",
         "production_rate_tpy": 24000.0,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -434,7 +434,7 @@
         "provinsi": "Jawa Tengah",
         "production_rate_tpy": 24000.0,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -457,7 +457,7 @@
         "provinsi": "Jawa Tengah",
         "production_rate_tpy": 72000.0,
         "category_shh": "SH",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -473,14 +473,14 @@
       "properties": {
         "pltu": "Barru",
         "pemasok": "CV MJ (Lompoe)",
-        "alamat": NaN,
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
-        "category_shh": NaN,
-        "keterangan": NaN,
+        "alamat": null,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
+        "category_shh": null,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -496,14 +496,14 @@
       "properties": {
         "pltu": "Barru",
         "pemasok": "CV MJ (Jl Bukit Madani)",
-        "alamat": NaN,
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
-        "category_shh": NaN,
-        "keterangan": NaN,
+        "alamat": null,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
+        "category_shh": null,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -519,14 +519,14 @@
       "properties": {
         "pltu": "Barru",
         "pemasok": "CV MJ (Soreang)",
-        "alamat": NaN,
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
-        "category_shh": NaN,
-        "keterangan": NaN,
+        "alamat": null,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
+        "category_shh": null,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -542,14 +542,14 @@
       "properties": {
         "pltu": "Barru",
         "pemasok": "CV MJ (Suppa)",
-        "alamat": NaN,
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
-        "category_shh": NaN,
-        "keterangan": NaN,
+        "alamat": null,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
+        "category_shh": null,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -565,14 +565,14 @@
       "properties": {
         "pltu": "Barru",
         "pemasok": "PT Lentera ; Sumber 1",
-        "alamat": NaN,
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
-        "category_shh": NaN,
-        "keterangan": NaN,
+        "alamat": null,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
+        "category_shh": null,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -588,14 +588,14 @@
       "properties": {
         "pltu": "Barru",
         "pemasok": "PT Lentera ; Sumber 2",
-        "alamat": NaN,
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
-        "category_shh": NaN,
-        "keterangan": NaN,
+        "alamat": null,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
+        "category_shh": null,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -611,14 +611,14 @@
       "properties": {
         "pltu": "Barru",
         "pemasok": "PT LJA",
-        "alamat": NaN,
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
-        "category_shh": NaN,
-        "keterangan": NaN,
+        "alamat": null,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
+        "category_shh": null,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -634,14 +634,14 @@
       "properties": {
         "pltu": "Barru",
         "pemasok": "PT SKM",
-        "alamat": NaN,
+        "alamat": null,
         "desa": "Belapunraga",
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
-        "category_shh": NaN,
-        "keterangan": NaN,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
+        "category_shh": null,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -657,14 +657,14 @@
       "properties": {
         "pltu": "Barru",
         "pemasok": "PT SKM",
-        "alamat": NaN,
+        "alamat": null,
         "desa": "Belapunraga",
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
-        "category_shh": NaN,
-        "keterangan": NaN,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
+        "category_shh": null,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -680,14 +680,14 @@
       "properties": {
         "pltu": "Barru",
         "pemasok": "PT SKM",
-        "alamat": NaN,
+        "alamat": null,
         "desa": "Langnga",
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
-        "category_shh": NaN,
-        "keterangan": NaN,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
+        "category_shh": null,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -710,7 +710,7 @@
         "provinsi": "Jawa Barat",
         "production_rate_tpy": 48000.0,
         "category_shh": "SH",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -733,7 +733,7 @@
         "provinsi": "Jawa Barat",
         "production_rate_tpy": 20000.0,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -779,7 +779,7 @@
         "provinsi": "Jawa Timur",
         "production_rate_tpy": 100000.0,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -825,7 +825,7 @@
         "provinsi": "Jawa Barat",
         "production_rate_tpy": 36000.0,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -864,14 +864,14 @@
       "properties": {
         "pltu": "Suralaya 8",
         "pemasok": "PT Medico",
-        "alamat": NaN,
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "alamat": null,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 575.0,
-        "category_shh": NaN,
-        "keterangan": NaN,
+        "category_shh": null,
+        "keterangan": null,
         "status": "Not Clear"
       }
     },
@@ -894,7 +894,7 @@
         "provinsi": "Jawa Timur",
         "production_rate_tpy": 1500.0,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -986,7 +986,7 @@
         "provinsi": "Kalimantan Barat",
         "production_rate_tpy": 720.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -1009,7 +1009,7 @@
         "provinsi": "Kalimantan Barat",
         "production_rate_tpy": 840.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -1032,7 +1032,7 @@
         "provinsi": "Kalimantan Barat",
         "production_rate_tpy": 840.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -1055,7 +1055,7 @@
         "provinsi": "Kalimantan Barat",
         "production_rate_tpy": 720.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -1078,7 +1078,7 @@
         "provinsi": "Kalimantan Barat",
         "production_rate_tpy": 840.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -1101,7 +1101,7 @@
         "provinsi": "Kalimantan Barat",
         "production_rate_tpy": 360.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -1124,7 +1124,7 @@
         "provinsi": "Kalimantan Barat",
         "production_rate_tpy": 960.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -1147,7 +1147,7 @@
         "provinsi": "Kalimantan Barat",
         "production_rate_tpy": 960.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -1165,12 +1165,12 @@
         "pemasok": "PT SKM Tender Woodchip",
         "alamat": "Desa Sungai Jaga B",
         "desa": "Sungai Jaga B",
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 19200.0,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -1193,7 +1193,7 @@
         "provinsi": "Kalimantan Barat",
         "production_rate_tpy": 18000.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -1216,7 +1216,7 @@
         "provinsi": "Kalimantan Barat",
         "production_rate_tpy": 18000.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -1232,14 +1232,14 @@
       "properties": {
         "pltu": "Bengkayang",
         "pemasok": " PT Rana Wastu Kencana",
-        "alamat": NaN,
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "alamat": null,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 115200.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Not Clear"
       }
     },
@@ -1255,14 +1255,14 @@
       "properties": {
         "pltu": "Bengkayang",
         "pemasok": "PT Bumi Tata Lestari ",
-        "alamat": NaN,
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "alamat": null,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 115200.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Not Clear"
       }
     },
@@ -1278,14 +1278,14 @@
       "properties": {
         "pltu": "Bengkayang",
         "pemasok": "PT Agrina Sawit Perdana",
-        "alamat": NaN,
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "alamat": null,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 144000.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Not Clear"
       }
     },
@@ -1324,7 +1324,7 @@
       "properties": {
         "pltu": "Berau",
         "pemasok": "CV Anugrah Abadi ; Sumber 2",
-        "alamat": NaN,
+        "alamat": null,
         "desa": "Merapun",
         "kecamatan": "Kelay",
         "kabupatenkota": "Berau",
@@ -1354,7 +1354,7 @@
         "provinsi": "Kalimantan Timur",
         "production_rate_tpy": 6600.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -1377,7 +1377,7 @@
         "provinsi": "Kalimantan Timur",
         "production_rate_tpy": 5040.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -1393,14 +1393,14 @@
       "properties": {
         "pltu": "Teluk Sirih",
         "pemasok": "CV RHJ Tender Woodchip",
-        "alamat": NaN,
-        "desa": NaN,
+        "alamat": null,
+        "desa": null,
         "kecamatan": "Rambatan",
         "kabupatenkota": "Tanah Datar Nagari",
         "provinsi": "Sumatera Barat",
         "production_rate_tpy": 20000.0,
-        "category_shh": NaN,
-        "keterangan": NaN,
+        "category_shh": null,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -1416,14 +1416,14 @@
       "properties": {
         "pltu": "Teluk Sirih",
         "pemasok": "UD Jasa Maju Jaya NTK",
-        "alamat": NaN,
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "alamat": null,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 5400.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -1439,14 +1439,14 @@
       "properties": {
         "pltu": "Teluk Sirih",
         "pemasok": "UD Jasa Maju Jaya NTK",
-        "alamat": NaN,
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "alamat": null,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 9600.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -1462,14 +1462,14 @@
       "properties": {
         "pltu": "Teluk Sirih",
         "pemasok": "UD Jasa Maju Jaya NTK",
-        "alamat": NaN,
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "alamat": null,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 3000.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -1508,14 +1508,14 @@
       "properties": {
         "pltu": "Ketapang",
         "pemasok": "CV Zebra Line",
-        "alamat": NaN,
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "alamat": null,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 8400.0,
-        "category_shh": NaN,
-        "keterangan": NaN,
+        "category_shh": null,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -1584,7 +1584,7 @@
         "provinsi": "Kalimantan Barat",
         "production_rate_tpy": 18000.0,
         "category_shh": "SH ",
-        "keterangan": "Kenanga Mill",
+        "keterangan": "Kenullga Mill",
         "status": "Clear"
       }
     },
@@ -1605,7 +1605,7 @@
         "kecamatan": "Marau",
         "kabupatenkota": "Ketapang",
         "provinsi": "Kalimantan Barat",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "SH ",
         "keterangan": "PT Kencana Graha Permai",
         "status": "Clear"
@@ -1628,7 +1628,7 @@
         "kecamatan": "Sungai Laur",
         "kabupatenkota": "Ketapang",
         "provinsi": "Kalimantan Barat",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "SH ",
         "keterangan": "PT Prakarsa Tani Sejati",
         "status": "Clear"
@@ -1651,7 +1651,7 @@
         "kecamatan": "Sungai Laur",
         "kabupatenkota": "Ketapang",
         "provinsi": "Kalimantan Barat",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "SH ",
         "keterangan": "PT Batu Mas Sejahtera",
         "status": "Clear"
@@ -1674,7 +1674,7 @@
         "kecamatan": "Tumbang Titi",
         "kabupatenkota": "Ketapang",
         "provinsi": "Kalimantan Barat",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "SH ",
         "keterangan": "PT Lestari Abadi Perkasa",
         "status": "Clear"
@@ -1697,7 +1697,7 @@
         "kecamatan": "Jelai Hulu",
         "kabupatenkota": "Ketapang",
         "provinsi": "Kalimantan Barat",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "SH ",
         "keterangan": "PT Bangun Nusa Mandiri",
         "status": "Clear"
@@ -1715,12 +1715,12 @@
       "properties": {
         "pltu": "Ketapang",
         "pemasok": "PT PKS ; Sumber 6",
-        "alamat": "Lembah Hijau I, Nanga Tayap, Ketapang Regency, \nWest Kalimantan 78873",
+        "alamat": "Lembah Hijau I, nullga Tayap, Ketapang Regency, \nWest Kalimantan 78873",
         "desa": "Lembah Hijau I",
-        "kecamatan": "Nanga Tayap",
+        "kecamatan": "nullga Tayap",
         "kabupatenkota": "Ketapang",
         "provinsi": "Kalimantan Barat",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "SH ",
         "keterangan": "PT Agro Lestari Mandiri",
         "status": "Clear"
@@ -1738,11 +1738,11 @@
       "properties": {
         "pltu": "Ketapang",
         "pemasok": "PT TEN ; Sumber 1",
-        "alamat": NaN,
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "alamat": null,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 525600.0,
         "category_shh": "SH ",
         "keterangan": "PT Rana Wastu Kencana",
@@ -1761,11 +1761,11 @@
       "properties": {
         "pltu": "Ketapang",
         "pemasok": "PT TEN ; Sumber 2",
-        "alamat": NaN,
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "alamat": null,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 525600.0,
         "category_shh": "SH ",
         "keterangan": "PT Bumi Tata Lestari",
@@ -1784,11 +1784,11 @@
       "properties": {
         "pltu": "Ketapang",
         "pemasok": "PT TEN ; Sumber 3",
-        "alamat": NaN,
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "alamat": null,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 657000.0,
         "category_shh": "SH ",
         "keterangan": "Pt Agrina Sawit Perdana",
@@ -1808,13 +1808,13 @@
         "pltu": "Nagan Raya",
         "pemasok": "PT Passe Maju Bersama Tender Sawdust",
         "alamat": " Leuken, Kecamatan Samatiga, Kabupaten Aceh Barat, Provinsi Aceh",
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 7200.0,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -1835,7 +1835,7 @@
         "kecamatan": "Samatiga",
         "kabupatenkota": "Aceh Barat ",
         "provinsi": "Aceh",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
         "keterangan": "Stockpile",
         "status": "Clear"
@@ -1858,7 +1858,7 @@
         "kecamatan": "Lhoksukon",
         "kabupatenkota": "Aceh Utara",
         "provinsi": "Aceh",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
         "keterangan": "Stockpile",
         "status": "Clear"
@@ -1881,7 +1881,7 @@
         "kecamatan": "Tanah Jambo Aye",
         "kabupatenkota": "Aceh Utara",
         "provinsi": "Aceh",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
         "keterangan": "Stockpile",
         "status": "Clear"
@@ -1904,7 +1904,7 @@
         "kecamatan": "Woyla",
         "kabupatenkota": "Aceh Barat ",
         "provinsi": "Aceh",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
         "keterangan": "Stockpile",
         "status": "Clear"
@@ -1945,14 +1945,14 @@
       "properties": {
         "pltu": "Nagan Raya",
         "pemasok": "PT Kurma Karya Global",
-        "alamat": NaN,
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "alamat": null,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 5400.0,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -1968,14 +1968,14 @@
       "properties": {
         "pltu": "Nagan Raya",
         "pemasok": "CV Jasa Saudara",
-        "alamat": NaN,
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "alamat": null,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 200.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -1998,7 +1998,7 @@
         "provinsi": "Aceh",
         "production_rate_tpy": 400.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2021,7 +2021,7 @@
         "provinsi": "Aceh",
         "production_rate_tpy": 200.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2044,7 +2044,7 @@
         "provinsi": "Sulawesi Tenggara",
         "production_rate_tpy": 40000.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2067,7 +2067,7 @@
         "provinsi": "Sulawesi Tenggara",
         "production_rate_tpy": 40000.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2084,13 +2084,13 @@
         "pltu": "Nii Tanasa",
         "pemasok": "PT HAP",
         "alamat": "Kec Mowila, Kab. Konawe Selatan",
-        "desa": NaN,
+        "desa": null,
         "kecamatan": "Mowila",
         "kabupatenkota": "Konawe Selatan",
         "provinsi": "Sulawesi Tenggara",
         "production_rate_tpy": 72000.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2113,7 +2113,7 @@
         "provinsi": "Sulawesi Tenggara",
         "production_rate_tpy": 7200.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2136,7 +2136,7 @@
         "provinsi": "Sulawesi Tenggara",
         "production_rate_tpy": 6000.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2159,7 +2159,7 @@
         "provinsi": "Sulawesi Tenggara",
         "production_rate_tpy": 8400.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2182,7 +2182,7 @@
         "provinsi": "Sulawesi Tenggara",
         "production_rate_tpy": 7200.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2205,7 +2205,7 @@
         "provinsi": "Sulawesi Tenggara",
         "production_rate_tpy": 6000.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2228,7 +2228,7 @@
         "provinsi": "Sulawesi Tenggara",
         "production_rate_tpy": 4800.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2251,7 +2251,7 @@
         "provinsi": "Sulawesi Tenggara",
         "production_rate_tpy": 6000.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2272,9 +2272,9 @@
         "kecamatan": "Angata",
         "kabupatenkota": "Konawe Selatan",
         "provinsi": "Sulawesi Tenggara",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2366,7 +2366,7 @@
         "provinsi": "Sulawesi Selatan",
         "production_rate_tpy": 1800.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2389,7 +2389,7 @@
         "provinsi": "Sulawesi Selatan",
         "production_rate_tpy": 2400.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2412,7 +2412,7 @@
         "provinsi": "Sulawesi Selatan",
         "production_rate_tpy": 1440.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2435,7 +2435,7 @@
         "provinsi": "Sulawesi Selatan",
         "production_rate_tpy": 3060.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2458,7 +2458,7 @@
         "provinsi": "Sulawesi Selatan",
         "production_rate_tpy": 2520.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2481,7 +2481,7 @@
         "provinsi": "Sulawesi Selatan",
         "production_rate_tpy": 840.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2502,9 +2502,9 @@
         "kecamatan": "Polongbangkeng Utara",
         "kabupatenkota": "Takalar",
         "provinsi": "Sulawesi Selatan",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2550,7 +2550,7 @@
         "provinsi": "Sulawesi Selatan",
         "production_rate_tpy": 7200.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2573,7 +2573,7 @@
         "provinsi": "Kalimantan Timur",
         "production_rate_tpy": 12000.0,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2590,13 +2590,13 @@
         "pltu": "Pulang Pisau",
         "pemasok": "PT GWS ; Stockpile 2",
         "alamat": "Palaran, Samarinda, Kaltim",
-        "desa": NaN,
+        "desa": null,
         "kecamatan": "Palaran",
         "kabupatenkota": "Samarinda",
         "provinsi": "Kalimantan Timur",
         "production_rate_tpy": 12000.0,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2619,7 +2619,7 @@
         "provinsi": "Kalimantan Timur",
         "production_rate_tpy": 12000.0,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2642,7 +2642,7 @@
         "provinsi": "Kalimantan Tengah",
         "production_rate_tpy": 120000.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2658,14 +2658,14 @@
       "properties": {
         "pltu": "Pulang Pisau",
         "pemasok": "PT MJC ; Stockpile",
-        "alamat": NaN,
+        "alamat": null,
         "desa": "Bata Luar",
         "kecamatan": "Tanah Pinoh",
         "kabupatenkota": "Melawi",
         "provinsi": "Kalimantan Barat",
         "production_rate_tpy": 750.0,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2686,7 +2686,7 @@
         "kecamatan": "Dadahup",
         "kabupatenkota": "Kapuas",
         "provinsi": "Kalimantan Tengah",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
         "keterangan": "PT. Globalindo Agung Lestari/ Globalindo Oil Mill",
         "status": "Clear"
@@ -2709,7 +2709,7 @@
         "kecamatan": "Tapin Tengah",
         "kabupatenkota": "Tapin",
         "provinsi": "Kalimantan Selatan",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
         "keterangan": "PT. Kharisma Inti Usaha",
         "status": "Clear"
@@ -2732,7 +2732,7 @@
         "kecamatan": "Cempaga Hulu",
         "kabupatenkota": "Kotawaringin Timur",
         "provinsi": "Kalimantan Tengah",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
         "keterangan": "PT. Sarana Prima Multi Niaga",
         "status": "Clear"
@@ -2755,7 +2755,7 @@
         "kecamatan": "Kapuas Bar",
         "kabupatenkota": "Kapuas",
         "provinsi": "Kalimantan Tengah",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
         "keterangan": "PT. Lifere Agro Kapuas",
         "status": "Clear"
@@ -2778,7 +2778,7 @@
         "kecamatan": "Sungai Tabuk",
         "kabupatenkota": "Banjar",
         "provinsi": "Kalimantan Selatan",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
         "keterangan": "PT. Palmina Utama",
         "status": "Clear"
@@ -2801,7 +2801,7 @@
         "kecamatan": "Katingan Hilir",
         "kabupatenkota": "Katingan",
         "provinsi": "Kalimantan Tengah",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
         "keterangan": "PT. Pola Kahuripan Inti Sawit",
         "status": "Clear"
@@ -2824,9 +2824,9 @@
         "kecamatan": "Mihing Raya",
         "kabupatenkota": "Gunung MAS",
         "provinsi": "Kalimantan Tengah",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2847,9 +2847,9 @@
         "kecamatan": "Mihing Raya",
         "kabupatenkota": "Gunung MAS",
         "provinsi": "Kalimantan Tengah",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2866,13 +2866,13 @@
         "pltu": "Pulang Pisau",
         "pemasok": "PT MTS",
         "alamat": "TST PT SPC 2",
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2893,9 +2893,9 @@
         "kecamatan": "Manuhing",
         "kabupatenkota": "Gunung MAS",
         "provinsi": "Kalimantan Tengah",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2913,12 +2913,12 @@
         "pemasok": "PT Bio Energi Suksesindo",
         "alamat": "Desa Kubang Jawa Kab Kampar Riau",
         "desa": "Kubang Jaya Kab",
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
-        "category_shh": NaN,
-        "keterangan": NaN,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
+        "category_shh": null,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2941,7 +2941,7 @@
         "provinsi": "Bangka Belitung",
         "production_rate_tpy": 60000.0,
         "category_shh": "H",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2959,12 +2959,12 @@
         "pemasok": "PT Aswattha Inti Sejahtera",
         "alamat": "Dusun Bertais, Murbaya Pringgarata, Lombok Tengah NTB",
         "desa": "Bertais",
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 4200.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -2981,13 +2981,13 @@
         "pltu": "Jeranjang",
         "pemasok": "PT Aswattha Inti Sejahtera",
         "alamat": "Surandi II Sesaot Lobar Narmada Lombok Barat NTB",
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 6300.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -3004,13 +3004,13 @@
         "pltu": "Jeranjang",
         "pemasok": "PT Aswattha Inti Sejahtera",
         "alamat": "Pemepek, Pringgarata Lombok Tengah NTB",
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 26400.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -3027,13 +3027,13 @@
         "pltu": "Jeranjang",
         "pemasok": "PT Aswattha Inti Sejahtera",
         "alamat": "Repok Pidendang, Pemepek Pringgarata, Lombok Tengah",
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 18000.0,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -3050,13 +3050,13 @@
         "pltu": "Jeranjang",
         "pemasok": "PT Aswattha Inti Sejahtera",
         "alamat": "Surandi No 51, Nyur Lembang Narmada, Lombok Barat",
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -3076,10 +3076,10 @@
         "desa": "Bongor Taman Ayu",
         "kecamatan": "Gerung",
         "kabupatenkota": "Lombok Barat",
-        "provinsi": NaN,
+        "provinsi": null,
         "production_rate_tpy": 5400.0,
-        "category_shh": NaN,
-        "keterangan": NaN,
+        "category_shh": null,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -3095,14 +3095,14 @@
       "properties": {
         "pltu": "Jeranjang",
         "pemasok": "PT bintang Raya Makmur Sentosa",
-        "alamat": NaN,
+        "alamat": null,
         "desa": "Bakong Desa Lembar",
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 5400.0,
-        "category_shh": NaN,
-        "keterangan": NaN,
+        "category_shh": null,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -3118,14 +3118,14 @@
       "properties": {
         "pltu": "Jeranjang",
         "pemasok": "PT bintang Raya Makmur Sentosa",
-        "alamat": NaN,
+        "alamat": null,
         "desa": "Padak Lembar Selatan",
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 9000.0,
-        "category_shh": NaN,
-        "keterangan": NaN,
+        "category_shh": null,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -3141,14 +3141,14 @@
       "properties": {
         "pltu": "Jeranjang",
         "pemasok": "PT Rizki Anugrah Pratama",
-        "alamat": NaN,
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
-        "category_shh": NaN,
-        "keterangan": NaN,
+        "alamat": null,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
+        "category_shh": null,
+        "keterangan": null,
         "status": "Not Clear"
       }
     },
@@ -3165,13 +3165,13 @@
         "pltu": "Jeranjang",
         "pemasok": "PT Syahroni Rizki Mandiri",
         "alamat": "Belanting, Sambelia, Lombok Timur, NTB",
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 18000.0,
-        "category_shh": NaN,
-        "keterangan": NaN,
+        "category_shh": null,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -3188,13 +3188,13 @@
         "pltu": "Jeranjang",
         "pemasok": "PT Syahroni Rizki Mandiri",
         "alamat": "Celuk Gedang, Montong Sari, Gerung Utara Lombok Barat, NTB",
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 12000.0,
-        "category_shh": NaN,
-        "keterangan": NaN,
+        "category_shh": null,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -3211,10 +3211,10 @@
         "pltu": "Teluk Balikpapan",
         "pemasok": "PT GWS Tender Cangkang ; Sumber 1",
         "alamat": "Pergudangan Bizpark A-9, Palaran, Samarinda",
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 12000.0,
         "category_shh": "SH ",
         "keterangan": "PT DNA",
@@ -3238,7 +3238,7 @@
         "kecamatan": "Muara Kaman",
         "kabupatenkota": "Kukar",
         "provinsi": "Kalimantan Timur",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
         "keterangan": "PT Cahaya Anugerah Plantation",
         "status": "Clear"
@@ -3256,7 +3256,7 @@
       "properties": {
         "pltu": "Suge",
         "pemasok": "PT TABL",
-        "alamat": NaN,
+        "alamat": null,
         "desa": "Pegantungan",
         "kecamatan": "Badau",
         "kabupatenkota": "Belitung",
@@ -3277,14 +3277,14 @@
         ]
       },
       "properties": {
-        "pltu": NaN,
+        "pltu": null,
         "pemasok": "PT Kurma",
-        "alamat": NaN,
+        "alamat": null,
         "desa": "Pasi Teungoh",
         "kecamatan": "Kaway XVI",
         "kabupatenkota": "Aceh Barat ",
         "provinsi": "Aceh",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
         "keterangan": "Stockpile",
         "status": "Clear"
@@ -3300,14 +3300,14 @@
         ]
       },
       "properties": {
-        "pltu": NaN,
+        "pltu": null,
         "pemasok": "PT Artha Daya Coalindo",
-        "alamat": NaN,
+        "alamat": null,
         "desa": "Kedaleman",
         "kecamatan": "Cibeber",
         "kabupatenkota": "Cilegon",
         "provinsi": "Banten",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
         "keterangan": "Stockpile",
         "status": "Clear"
@@ -3323,14 +3323,14 @@
         ]
       },
       "properties": {
-        "pltu": NaN,
+        "pltu": null,
         "pemasok": "PT Palma banna mandiri woodchip",
-        "alamat": NaN,
+        "alamat": null,
         "desa": "Kareng Ateuh",
         "kecamatan": "Jaya",
         "kabupatenkota": "Aceh Jaya",
         "provinsi": "Aceh",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
         "keterangan": "Stockpile",
         "status": "Clear"
@@ -3346,16 +3346,16 @@
         ]
       },
       "properties": {
-        "pltu": NaN,
+        "pltu": null,
         "pemasok": "PT Kasenda ; Sumber 1",
-        "alamat": NaN,
-        "desa": "Nanjungan",
+        "alamat": null,
+        "desa": "nulljungan",
         "kecamatan": "Kikim Selatan",
         "kabupatenkota": "Lahat",
         "provinsi": "Sumatera Selatan",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -3369,16 +3369,16 @@
         ]
       },
       "properties": {
-        "pltu": NaN,
+        "pltu": null,
         "pemasok": "PT Kasenda ; Sumber 2",
-        "alamat": NaN,
+        "alamat": null,
         "desa": "Sari Bunga MAS",
         "kecamatan": "Lahat",
         "kabupatenkota": "Lahat",
         "provinsi": "Sumatera Selatan",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -3392,16 +3392,16 @@
         ]
       },
       "properties": {
-        "pltu": NaN,
+        "pltu": null,
         "pemasok": "PT Kasenda ; Sumber 3",
-        "alamat": NaN,
+        "alamat": null,
         "desa": "Sugih Waras",
         "kecamatan": "Gumay Talang",
         "kabupatenkota": "Lahat",
         "provinsi": "Sumatera Selatan",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -3415,16 +3415,16 @@
         ]
       },
       "properties": {
-        "pltu": NaN,
+        "pltu": null,
         "pemasok": "PT Kasenda ; Sumber 4",
-        "alamat": NaN,
+        "alamat": null,
         "desa": "Sungai Laru",
         "kecamatan": "Kikim Tengah",
         "kabupatenkota": "Lahat",
         "provinsi": "Sumatera Selatan",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -3438,16 +3438,16 @@
         ]
       },
       "properties": {
-        "pltu": NaN,
+        "pltu": null,
         "pemasok": "PT Kasenda ; Sumber 5",
-        "alamat": NaN,
+        "alamat": null,
         "desa": "Sugih Waras",
         "kecamatan": "Gumay Talang",
         "kabupatenkota": "Lahat",
         "provinsi": "Sumatera Selatan",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -3461,16 +3461,16 @@
         ]
       },
       "properties": {
-        "pltu": NaN,
+        "pltu": null,
         "pemasok": "PT Kasenda ; Sumber 6",
-        "alamat": NaN,
-        "desa": "Prabu Menang",
+        "alamat": null,
+        "desa": "Prabu Menullg",
         "kecamatan": "Lubai Ulu",
         "kabupatenkota": "Muara Enim",
         "provinsi": "Sumatera Selatan",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -3484,16 +3484,16 @@
         ]
       },
       "properties": {
-        "pltu": NaN,
+        "pltu": null,
         "pemasok": "PT Kasenda ; Sumber 7",
-        "alamat": NaN,
+        "alamat": null,
         "desa": "Aur",
         "kecamatan": "Lubai",
         "kabupatenkota": "Muara Enim",
         "provinsi": "Sumatera Selatan",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -3507,16 +3507,16 @@
         ]
       },
       "properties": {
-        "pltu": NaN,
+        "pltu": null,
         "pemasok": "PT Kasenda ; Sumber 8",
-        "alamat": NaN,
+        "alamat": null,
         "desa": "Petikal Baru",
         "kecamatan": "Kikim Timur",
         "kabupatenkota": "Lahat",
         "provinsi": "Sumatera Selatan",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "SH ",
-        "keterangan": NaN,
+        "keterangan": null,
         "status": "Clear"
       }
     },
@@ -3530,14 +3530,14 @@
         ]
       },
       "properties": {
-        "pltu": NaN,
+        "pltu": null,
         "pemasok": "PT kurma woodchip",
-        "alamat": NaN,
+        "alamat": null,
         "desa": "Tungkop",
         "kecamatan": "Sungai Mas",
         "kabupatenkota": "Aceh Barat",
         "provinsi": "Aceh",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
         "keterangan": "Stockpile",
         "status": "Clear"
@@ -3554,16 +3554,16 @@
       },
       "properties": {
         "pltu": "Suralaya",
-        "pemasok": NaN,
+        "pemasok": null,
         "alamat": "Jl Lingkar Selatan , Cilegon Timur",
-        "desa": NaN,
-        "kecamatan": NaN,
+        "desa": null,
+        "kecamatan": null,
         "kabupatenkota": "Cilegon",
         "provinsi": "Banten",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
-        "keterangan": NaN,
-        "status": NaN
+        "keterangan": null,
+        "status": null
       }
     },
     {
@@ -3577,16 +3577,16 @@
       },
       "properties": {
         "pltu": "Lontar",
-        "pemasok": NaN,
+        "pemasok": null,
         "alamat": "X24P+697 Bagendung, Kota Cilegon, Banten\n",
-        "desa": NaN,
-        "kecamatan": NaN,
+        "desa": null,
+        "kecamatan": null,
         "kabupatenkota": "Cilegon",
         "provinsi": "Banten",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
-        "keterangan": NaN,
-        "status": NaN
+        "keterangan": null,
+        "status": null
       }
     },
     {
@@ -3600,16 +3600,16 @@
       },
       "properties": {
         "pltu": "Labuan",
-        "pemasok": NaN,
+        "pemasok": null,
         "alamat": "Jl Nasional III  , Jl Kepenimbangan\n",
-        "desa": NaN,
+        "desa": null,
         "kecamatan": "Margasana",
         "kabupatenkota": "Pandeglang",
         "provinsi": "Banten",
-        "production_rate_tpy": NaN,
+        "production_rate_tpy": null,
         "category_shh": "H",
-        "keterangan": NaN,
-        "status": NaN
+        "keterangan": null,
+        "status": null
       }
     },
     {
@@ -3623,16 +3623,16 @@
       },
       "properties": {
         "pltu": "Cilacap",
-        "pemasok": NaN,
+        "pemasok": null,
         "alamat": "Jl. Raya Batulawang No.Km.3, Sukamukti, Kec. Pataruman, Kota Banjar, Jawa Barat 46326\n",
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
         "category_shh": "H",
-        "keterangan": NaN,
-        "status": NaN
+        "keterangan": null,
+        "status": null
       }
     },
     {
@@ -3646,16 +3646,16 @@
       },
       "properties": {
         "pltu": "Pacitan",
-        "pemasok": NaN,
+        "pemasok": null,
         "alamat": "Jl. Ponorogo - Trenggalek, Krajan, Nglongsor, _x000B_Kec. Tugu, Kabupaten Trenggalek, Jawa Timur 66352\n",
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
         "category_shh": "H",
-        "keterangan": NaN,
-        "status": NaN
+        "keterangan": null,
+        "status": null
       }
     },
     {
@@ -3669,16 +3669,16 @@
       },
       "properties": {
         "pltu": "Tanjung Awar-Awar",
-        "pemasok": NaN,
+        "pemasok": null,
         "alamat": "Jl. Raya Pati - Juwana Kec Gading Rejo , Kabupaten Pati",
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
         "category_shh": "H",
-        "keterangan": NaN,
-        "status": NaN
+        "keterangan": null,
+        "status": null
       }
     },
     {
@@ -3692,16 +3692,16 @@
       },
       "properties": {
         "pltu": "Rembang",
-        "pemasok": NaN,
-        "alamat": "Jl. Lintas Bangkinang - Petapahan , Kec. Bangkinang, Kab. Kampar, Riau 28463\n",
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
+        "pemasok": null,
+        "alamat": "Jl. Lintas Bangkinullg - Petapahan , Kec. Bangkinullg, Kab. Kampar, Riau 28463\n",
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
         "category_shh": "H",
-        "keterangan": NaN,
-        "status": NaN
+        "keterangan": null,
+        "status": null
       }
     },
     {
@@ -3715,16 +3715,16 @@
       },
       "properties": {
         "pltu": "Tenayan",
-        "pemasok": NaN,
-        "alamat": "Jl. Lintas Bangkinang – Pekanbaru, Kec. Bangkinang, Kab. Kampar, Riau 28463",
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "pemasok": null,
+        "alamat": "Jl. Lintas Bangkinullg – Pekanbaru, Kec. Bangkinullg, Kab. Kampar, Riau 28463",
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 14040.0,
         "category_shh": "H",
-        "keterangan": NaN,
-        "status": NaN
+        "keterangan": null,
+        "status": null
       }
     },
     {
@@ -3738,16 +3738,16 @@
       },
       "properties": {
         "pltu": "Tarahan",
-        "pemasok": NaN,
+        "pemasok": null,
         "alamat": "Desa Buko Poso, Kec. Way Mesuji, Kabupaten Mesuji, Lampung",
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 37440.0,
         "category_shh": "H",
-        "keterangan": NaN,
-        "status": NaN
+        "keterangan": null,
+        "status": null
       }
     },
     {
@@ -3761,16 +3761,16 @@
       },
       "properties": {
         "pltu": "Sebalang",
-        "pemasok": NaN,
-        "alamat": "Bumi Ratu Kec Blambangan Umpu Kab Way Kanan , Lampung \n",
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
+        "pemasok": null,
+        "alamat": "Bumi Ratu Kec Blambangan Umpu Kab Way Kanull , Lampung \n",
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
         "category_shh": "H",
-        "keterangan": NaN,
-        "status": NaN
+        "keterangan": null,
+        "status": null
       }
     },
     {
@@ -3784,16 +3784,16 @@
       },
       "properties": {
         "pltu": "Tenayan",
-        "pemasok": NaN,
+        "pemasok": null,
         "alamat": "JL Tanpa Nama, Kuala Lelangi Kec Kethan Kab Bengkulu Utara , Bengkulu\n",
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
         "category_shh": "H",
-        "keterangan": NaN,
-        "status": NaN
+        "keterangan": null,
+        "status": null
       }
     },
     {
@@ -3807,16 +3807,16 @@
       },
       "properties": {
         "pltu": "Teluk Sirih",
-        "pemasok": NaN,
+        "pemasok": null,
         "alamat": "Rantau Kembang , KecRimbo Ilir, kab Tebo, Jambi\n",
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
         "category_shh": "H",
-        "keterangan": NaN,
-        "status": NaN
+        "keterangan": null,
+        "status": null
       }
     },
     {
@@ -3830,16 +3830,16 @@
       },
       "properties": {
         "pltu": "Bukit Asam",
-        "pemasok": NaN,
+        "pemasok": null,
         "alamat": " Pasar Singkut , Kec Singkut, Kab Sarolangun, jambi",
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
-        "production_rate_tpy": NaN,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
+        "production_rate_tpy": null,
         "category_shh": "H",
-        "keterangan": NaN,
-        "status": NaN
+        "keterangan": null,
+        "status": null
       }
     },
     {
@@ -3853,16 +3853,16 @@
       },
       "properties": {
         "pltu": "Pulang Pisang",
-        "pemasok": NaN,
+        "pemasok": null,
         "alamat": "Jl. Kasturi, Pulau Telo, Kec. Selat, Kabupaten Kapuas, Kalimantan Tengah 73516",
-        "desa": NaN,
-        "kecamatan": NaN,
-        "kabupatenkota": NaN,
-        "provinsi": NaN,
+        "desa": null,
+        "kecamatan": null,
+        "kabupatenkota": null,
+        "provinsi": null,
         "production_rate_tpy": 51840.0,
         "category_shh": "H",
-        "keterangan": NaN,
-        "status": NaN
+        "keterangan": null,
+        "status": null
       }
     }
   ]
